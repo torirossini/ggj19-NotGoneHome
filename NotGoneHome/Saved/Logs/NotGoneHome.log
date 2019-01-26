@@ -867,3 +867,469 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.26-03.36.51:209][  8]Cmd: MAP CHECKDEP NOCLEARLOG
 [2019.01.26-03.36.51:209][  8]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
 [2019.01.26-03.36.51:209][  8]LogFileHelpers: Loading map 'Tori' took 0.272
+[2019.01.26-03.37.12:307][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-03.37.16:268][790]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.26-03.37.18:542][ 35]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.37.20:802][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.37.30:769][408]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-03.37.37:917][855]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_2 via property FP_Gun, but TRASH_SkeletalMeshComponent_2 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.37.37:919][855]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_21 via property FP_Gun, but TRASH_SkeletalMeshComponent_21 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.37.37:920][855]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_22 via property FP_Gun, but TRASH_SkeletalMeshComponent_22 is pending kill
+	FirstPersonCharacter_C /Game/Maps/Tori.Tori:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.37.40:202][990]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_2 via property FP_Gun, but TRASH_SkeletalMeshComponent_2 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.37.40:204][990]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_21 via property FP_Gun, but TRASH_SkeletalMeshComponent_21 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.37.40:205][990]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_22 via property FP_Gun, but TRASH_SkeletalMeshComponent_22 is pending kill
+	FirstPersonCharacter_C /Game/Maps/Tori.Tori:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.37.49:770][606]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_2 via property FP_Gun, but TRASH_SkeletalMeshComponent_2 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.37.49:772][606]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_21 via property FP_Gun, but TRASH_SkeletalMeshComponent_21 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.37.49:773][606]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_22 via property FP_Gun, but TRASH_SkeletalMeshComponent_22 is pending kill
+	FirstPersonCharacter_C /Game/Maps/Tori.Tori:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.37.55:952][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-03.37.57:211][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.37.57:286][252]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-03.37.57:301][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.37.57:301][252]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.26-03.37.57:312][252]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.01.26-03.37.57:327][252]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.01.26-03.37.57:327][252]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.01.26-03.37.57:327][252]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.01.26-03.37.57:328][252]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.01.26-03.37.57:331][252]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0669.90] Compile of FirstPersonCharacter failed. 4 Fatal Issue(s) 0 Warning(s) [in 19 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2019.01.26-03.37.57:516][252]LogPlayLevel: PlayLevel: Blueprint regeneration took 215 ms (1 blueprints)
+[2019.01.26-03.37.57:516][252]BlueprintLog: Blueprint FirstPersonCharacter failed to compile
+[2019.01.26-03.38.04:883][252]LogSlate: Window 'Message' being destroyed
+[2019.01.26-03.38.04:888][252]PIE: New page: PIE session: Tori (Jan 25, 2019, 5:38:04 PM)
+[2019.01.26-03.38.04:888][252]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-03.38.04:915][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025935s)
+[2019.01.26-03.38.04:915][252]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-03.38.04:916][252]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2019.01.26-03.38.04:916][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.027055s)
+[2019.01.26-03.38.04:999][252]LogInit: XAudio2 using 'DELL U2718Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-03.38.05:013][252]LogInit: FAudioDevice initialized.
+[2019.01.26-03.38.05:049][252]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-03.38.05:053][252]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.25-22.38.05
+[2019.01.26-03.38.05:053][252]LogWorld: Bringing up level for play took: 0.002600
+[2019.01.26-03.38.05:068][252]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 8.526
+[2019.01.26-03.38.05:069][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.38.07:197][501]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.38.07:198][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.38.07:231][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-03.38.07:231][501]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.38.07:288][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.38.07:312][502]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.01.26-03.38.08:003][583]Cmd: SELECT NONE
+[2019.01.26-03.38.10:610][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-03.38.10:761][897]Cmd: TRANSACTION UNDO
+[2019.01.26-03.38.10:761][897]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.26-03.38.10:972][920]Cmd: TRANSACTION UNDO
+[2019.01.26-03.38.10:972][920]LogEditorTransaction: Undo Select None
+[2019.01.26-03.38.11:163][941]Cmd: TRANSACTION UNDO
+[2019.01.26-03.38.11:163][941]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.26-03.38.11:330][952]Cmd: TRANSACTION UNDO
+[2019.01.26-03.38.11:330][952]LogEditorTransaction: Undo Remove Components
+[2019.01.26-03.38.11:513][962]Cmd: TRANSACTION UNDO
+[2019.01.26-03.38.11:513][962]LogEditorTransaction: Undo Remove Components
+[2019.01.26-03.38.11:685][980]Cmd: TRANSACTION UNDO
+[2019.01.26-03.38.11:685][980]LogEditorTransaction: Undo Remove Components
+[2019.01.26-03.38.12:055][ 20]Cmd: TRANSACTION UNDO
+[2019.01.26-03.38.12:055][ 20]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.26-03.38.12:268][ 35]Cmd: TRANSACTION UNDO
+[2019.01.26-03.38.12:268][ 35]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.26-03.38.13:321][155]Cmd: TRANSACTION UNDO
+[2019.01.26-03.38.13:321][155]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.26-03.38.14:842][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.38.31:769][640]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-03.38.31:799][640]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.38.31:799][640]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.26-03.38.31:814][640]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.01.26-03.38.32:035][640]LogPlayLevel: PlayLevel: Blueprint regeneration took 236 ms (1 blueprints)
+[2019.01.26-03.38.32:035][640]PIE: New page: PIE session: Tori (Jan 25, 2019, 5:38:32 PM)
+[2019.01.26-03.38.32:035][640]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-03.38.32:046][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011180s)
+[2019.01.26-03.38.32:047][640]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-03.38.32:047][640]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2019.01.26-03.38.32:047][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.011871s)
+[2019.01.26-03.38.32:111][640]LogInit: XAudio2 using 'DELL U2718Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-03.38.32:127][640]LogInit: FAudioDevice initialized.
+[2019.01.26-03.38.32:167][640]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-03.38.32:172][640]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.25-22.38.32
+[2019.01.26-03.38.32:172][640]LogWorld: Bringing up level for play took: 0.003709
+[2019.01.26-03.38.32:186][640]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori -0.357
+[2019.01.26-03.38.32:187][640]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.38.37:657][292]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.38.37:657][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.38.37:694][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-03.38.37:695][292]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.38.37:749][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.38.37:772][293]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.01.26-03.38.38:669][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.38.38:736][407]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-03.38.38:753][407]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.38.38:753][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-03.38.38:753][407]PIE: New page: PIE session: Tori (Jan 25, 2019, 5:38:38 PM)
+[2019.01.26-03.38.38:753][407]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-03.38.38:764][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011019s)
+[2019.01.26-03.38.38:765][407]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-03.38.38:765][407]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2019.01.26-03.38.38:765][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.011700s)
+[2019.01.26-03.38.38:830][407]LogInit: XAudio2 using 'DELL U2718Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-03.38.38:841][407]LogInit: FAudioDevice initialized.
+[2019.01.26-03.38.38:874][407]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-03.38.38:877][407]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.25-22.38.38
+[2019.01.26-03.38.38:877][407]LogWorld: Bringing up level for play took: 0.001865
+[2019.01.26-03.38.38:891][407]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 0.348
+[2019.01.26-03.38.38:891][407]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.39.09:262][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.40.14:670][718]LogSlate: Window 'Tutorials' being destroyed
+[2019.01.26-03.41.32:900][952]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UAnimInstance::Montage_Play' [Element not found.]
+[2019.01.26-03.41.34:001][ 30]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USkeletalMeshComponent::GetAnimInstance' [Element not found.]
+[2019.01.26-03.41.45:626][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.42.25:748][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.42.27:859][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.42.27:920][643]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.42.27:946][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.42.28:003][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-03.42.28:003][643]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.42.28:059][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.42.28:122][644]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.01.26-03.42.33:690][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.42.33:755][244]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2019.01.26-03.42.33:757][244]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2019.01.26-03.45.04:048][121]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.45.07:580][468]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.45.11:195][857]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.45.11:196][857]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-03.45.25:158][828]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter95F83D9E47EA9A8667203BA5A2349866.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-03.45.25:959][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2019.01.26-03.45.27:489][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.45.28:411][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.45.28:454][136]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-03.45.28:472][136]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.45.28:472][136]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.26-03.45.28:480][136]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.01.26-03.45.28:693][136]LogPlayLevel: PlayLevel: Blueprint regeneration took 219 ms (1 blueprints)
+[2019.01.26-03.45.28:693][136]PIE: New page: PIE session: Tori (Jan 25, 2019, 5:45:28 PM)
+[2019.01.26-03.45.28:693][136]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-03.45.28:703][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010500s)
+[2019.01.26-03.45.28:704][136]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-03.45.28:704][136]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2019.01.26-03.45.28:704][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.011179s)
+[2019.01.26-03.45.28:764][136]LogInit: XAudio2 using 'DELL U2718Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-03.45.28:775][136]LogInit: FAudioDevice initialized.
+[2019.01.26-03.45.28:810][136]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-03.45.28:814][136]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.25-22.45.28
+[2019.01.26-03.45.28:816][136]LogWorld: Bringing up level for play took: 0.003625
+[2019.01.26-03.45.28:830][136]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 0.291
+[2019.01.26-03.45.28:830][136]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.45.40:980][575]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.45.40:980][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.45.41:018][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-03.45.41:019][575]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.45.41:071][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.45.41:095][576]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.01.26-03.45.41:691][646]Cmd: SELECT NONE
+[2019.01.26-03.45.42:085][693]Cmd: SELECT NONE
+[2019.01.26-03.45.42:658][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.45.50:332][671]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.45.52:365][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.46.12:280][808]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-03.46.12:283][808]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-03.46.21:052][762]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.46.21:057][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tori" FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.26-03.46.21:309][762]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/ToriFEE4B9704158888499A276B60C1D1039.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori.umap'
+[2019.01.26-03.46.21:344][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tori_BuiltData" FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori_BuiltData.uasset" SILENT=true
+[2019.01.26-03.46.22:076][762]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/Tori_BuiltData7830E7D84E6CB5DAD809419D048E6952.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori_BuiltData.uasset'
+[2019.01.26-03.46.22:959][858]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.49.40:168][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.49.58:108][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-03.49.59:359][768]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.50.12:007][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.50.14:074][382]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.50.14:076][382]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-03.50.19:536][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.50.24:533][128]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Game/Maps/Tori.Tori:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.50.24:535][128]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_11 via property FP_Gun, but TRASH_SkeletalMeshComponent_11 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_10:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.50.24:536][128]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_11 via property FP_Gun, but TRASH_SkeletalMeshComponent_11 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_3
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.50.24:570][128]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_11 via property FP_Gun, but TRASH_SkeletalMeshComponent_11 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_10:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.50.26:506][317]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-03.50.26:523][317]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.50.26:523][317]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.26-03.50.26:530][317]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.01.26-03.50.26:540][317]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.01.26-03.50.26:540][317]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.01.26-03.50.26:543][317]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [1419.12] Compile of FirstPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 13 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2019.01.26-03.50.26:864][317]LogPlayLevel: PlayLevel: Blueprint regeneration took 340 ms (1 blueprints)
+[2019.01.26-03.50.26:864][317]BlueprintLog: Blueprint FirstPersonCharacter failed to compile
+[2019.01.26-03.50.29:576][317]LogSlate: Window 'Message' being destroyed
+[2019.01.26-03.50.29:976][351]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.50.30:485][407]LogEditorTransaction: Undo Remove Components
+[2019.01.26-03.50.31:621][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.50.34:847][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.50.34:896][759]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-03.50.34:911][759]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.50.34:911][759]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.26-03.50.34:918][759]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.01.26-03.50.34:928][759]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.01.26-03.50.34:931][759]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [1427.51] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 13 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2019.01.26-03.50.35:279][759]LogPlayLevel: PlayLevel: Blueprint regeneration took 367 ms (1 blueprints)
+[2019.01.26-03.50.35:279][759]BlueprintLog: Blueprint FirstPersonCharacter failed to compile
+[2019.01.26-03.50.37:199][759]LogSlate: Window 'Message' being destroyed
+[2019.01.26-03.50.49:163][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.50.49:242][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-03.50.49:256][ 14]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.50.49:257][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-03.50.50:087][ 14]LogSlate: Window 'Message' being destroyed
+[2019.01.26-03.50.50:091][ 14]PIE: New page: PIE session: Tori (Jan 25, 2019, 5:50:50 PM)
+[2019.01.26-03.50.50:091][ 14]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-03.50.50:109][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017811s)
+[2019.01.26-03.50.50:110][ 14]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-03.50.50:110][ 14]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2019.01.26-03.50.50:110][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.018885s)
+[2019.01.26-03.50.50:188][ 14]LogInit: XAudio2 using 'DELL U2718Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-03.50.50:202][ 14]LogInit: FAudioDevice initialized.
+[2019.01.26-03.50.50:202][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.50.50:239][ 14]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-03.50.50:242][ 14]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.25-22.50.50
+[2019.01.26-03.50.50:242][ 14]LogWorld: Bringing up level for play took: 0.002144
+[2019.01.26-03.50.50:257][ 14]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 1.718
+[2019.01.26-03.50.50:258][ 14]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.50.51:987][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.52.04:150][601]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.52.07:156][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.52.07:231][928]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.52.07:232][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.52.07:267][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-03.52.07:267][928]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.52.07:308][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.52.07:341][929]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.01.26-03.52.07:542][952]LogEditorTransaction: Undo Remove Components
+[2019.01.26-03.52.07:751][964]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.26-03.52.12:288][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.52.33:107][180]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::K2_AttachToComponent' [Element not found.]
+[2019.01.26-03.56.10:147][256]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2019.01.26-03.56.10:150][256]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2019.01.26-03.56.26:981][141]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP
+[2019.01.26-03.56.26:993][141]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.01.26-03.56.27:193][141]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.26-03.56.27:198][141]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.01.26-03.56.27:479][141]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.26-03.56.27:879][141]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.01.26-03.56.36:888][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.56.46:223][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.56.46:339][601]LogSlate: Window 'FirstPerson_AnimBP' being destroyed
+[2019.01.26-03.56.46:342][601]LogSlate: Window 'FirstPerson_AnimBP' being destroyed
+[2019.01.26-03.56.50:309][ 11]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.56.50:806][ 58]LogEditorViewport: Clicking on Actor (context menu): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.56.50:824][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.56.57:345][769]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.56.57:605][795]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (Mesh2P)
+[2019.01.26-03.56.58:029][837]LogEditorViewport: Clicking on Component (context menu): SkeletalMeshComponent (Mesh2P)
+[2019.01.26-03.56.58:041][837]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.57.28:062][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.57.46:640][988]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-03.58.17:664][453]LogRenderer: Reallocating scene render targets to support 1288x772 Format 10 NumSamples 1 (Frame:1).
+[2019.01.26-03.58.20:521][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.58.37:304][ 24]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-03.58.44:415][557]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-03.58.46:769][711]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_18 via property FP_Gun, but TRASH_SkeletalMeshComponent_18 is pending kill
+	FirstPersonCharacter_C /Game/Maps/Tori.Tori:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.58.46:772][711]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_27 via property FP_Gun, but TRASH_SkeletalMeshComponent_27 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_16:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.58.46:773][711]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_9 via property FP_Gun, but TRASH_SkeletalMeshComponent_9 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_7
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.58.46:804][711]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_27 via property FP_Gun, but TRASH_SkeletalMeshComponent_27 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_16:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2019.01.26-03.58.47:512][767]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-03.58.47:529][767]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.01.26-03.58.47:865][767]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [1920.44] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 352 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2019.01.26-03.58.48:935][862]LogEditorTransaction: Undo Remove Components
+[2019.01.26-03.59.16:983][ 64]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-03.59.17:003][ 64]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.01.26-03.59.17:003][ 64]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.01.26-03.59.17:302][ 64]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [1949.88] Compile of FirstPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 319 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2019.01.26-03.59.29:829][ 57]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-03.59.29:846][ 57]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.01.26-03.59.30:108][ 57]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [1962.69] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 278 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2019.01.26-03.59.36:231][577]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-03.59.41:037][988]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-03.59.41:052][988]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.59.41:052][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-03.59.41:052][988]PIE: New page: PIE session: Tori (Jan 25, 2019, 5:59:41 PM)
+[2019.01.26-03.59.41:052][988]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-03.59.41:064][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011037s)
+[2019.01.26-03.59.41:064][988]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-03.59.41:064][988]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2019.01.26-03.59.41:064][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.011726s)
+[2019.01.26-03.59.41:219][988]LogInit: XAudio2 using 'DELL U2718Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-03.59.41:248][988]LogInit: FAudioDevice initialized.
+[2019.01.26-03.59.41:286][988]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-03.59.41:290][988]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.25-22.59.41
+[2019.01.26-03.59.41:290][988]LogWorld: Bringing up level for play took: 0.002901
+[2019.01.26-03.59.41:307][988]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 0.768
+[2019.01.26-03.59.41:307][988]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.59.57:754][922]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.59.57:754][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.59.57:792][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-03.59.57:792][922]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-03.59.57:848][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.59.57:873][923]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.01.26-03.59.59:565][102]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.59.59:571][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tori" FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.26-03.59.59:800][102]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/ToriC009E0444D6EE194ED6269B8DBE08540.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori.umap'
+[2019.01.26-03.59.59:863][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tori_BuiltData" FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori_BuiltData.uasset" SILENT=true
+[2019.01.26-04.00.00:249][102]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/Tori_BuiltData889D5D8C444405A3E78255B2D58C84E5.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori_BuiltData.uasset'
+[2019.01.26-04.00.01:103][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tori" FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.26-04.00.01:291][193]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/Tori48BCC8AB442A8589C93F639F2282D23A.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori.umap'
+[2019.01.26-04.00.01:339][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tori_BuiltData" FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori_BuiltData.uasset" SILENT=true
+[2019.01.26-04.00.01:710][193]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/Tori_BuiltDataCFEA9DA0454C582DE691B8839721CEFB.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori_BuiltData.uasset'
+[2019.01.26-04.00.50:040][507]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.26-04.00.52:484][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-04.01.18:644][189]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-04.01.41:011][985]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.26-04.01.41:188][985]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/PlayerCharacterE54E230146790E74DB81789DB2932FC1.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/PlayerCharacter.uasset'
+[2019.01.26-04.01.41:197][985]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2019.01.26-04.01.41:215][985]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/PlayerCharacter.PlayerCharacter
+[2019.01.26-04.01.46:016][256]LogSlate: Window 'PlayerCharacter' being destroyed
+[2019.01.26-04.01.46:018][256]LogSlate: Window 'PlayerCharacter' being destroyed
+[2019.01.26-04.01.46:019][256]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.26-04.01.48:040][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-04.02.13:327][662]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2019.01.26-04.02.15:700][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-04.02.19:440][308]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-04.02.20:967][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-04.02.30:022][448]LogEditorActor: Deleted Actor: FirstPersonCharacter_C
+[2019.01.26-04.02.30:078][448]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2019.01.26-04.02.34:386][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-04.02.36:165][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.01.26-04.02.37:423][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-04.02.40:210][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-04.02.40:268][565]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-04.02.40:288][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-04.02.40:288][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-04.02.40:288][565]PIE: New page: PIE session: Tori (Jan 25, 2019, 6:02:40 PM)
+[2019.01.26-04.02.40:288][565]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-04.02.40:299][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010762s)
+[2019.01.26-04.02.40:300][565]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-04.02.40:300][565]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2019.01.26-04.02.40:300][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.011455s)
+[2019.01.26-04.02.40:461][565]LogInit: XAudio2 using 'DELL U2718Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-04.02.40:496][565]LogInit: FAudioDevice initialized.
+[2019.01.26-04.02.40:537][565]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-04.02.40:541][565]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.25-23.02.40
+[2019.01.26-04.02.40:542][565]LogWorld: Bringing up level for play took: 0.003791
+[2019.01.26-04.02.40:558][565]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 0.023
+[2019.01.26-04.02.40:558][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-04.02.53:240][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-04.02.53:240][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-04.02.53:281][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-04.02.53:282][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-04.02.53:337][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-04.02.53:363][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.01.26-04.02.55:359][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-04.03.00:119][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.01.26-04.03.00:790][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.01.26-04.03.01:850][ 30]LogEditorViewport: Clicking on Actor (LMB): PlayerCharacter_C (PlayerCharacter)
+[2019.01.26-04.03.03:054][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-04.03.07:532][648]LogEditorActor: Deleted Actor: PlayerStart
+[2019.01.26-04.03.07:578][648]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2019.01.26-04.03.08:571][763]Cmd: DELETE
+[2019.01.26-04.03.08:571][763]Cmd: ACTOR DELETE
+[2019.01.26-04.03.08:577][763]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.01.26-04.03.08:625][763]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2019.01.26-04.03.10:023][926]Cmd: TRANSACTION UNDO
+[2019.01.26-04.03.10:023][926]LogEditorTransaction: Undo Delete Actors
+[2019.01.26-04.03.12:982][249]LogEditorActor: Deleted Actor: TextRenderActor
+[2019.01.26-04.03.13:029][249]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.01.26-04.03.20:230][ 51]LogEditorActor: Deleted Actor: SkyLight
+[2019.01.26-04.03.20:276][ 51]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2019.01.26-04.03.21:103][148]Cmd: TRANSACTION UNDO
+[2019.01.26-04.03.21:103][148]LogEditorTransaction: Undo Delete selection
+[2019.01.26-04.03.28:391][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-04.03.28:392][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-04.03.28:392][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-04.03.28:393][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-04.03.28:393][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-04.03.28:393][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-04.03.28:394][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-04.03.28:394][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-04.03.28:394][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-04.03.28:394][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-04.03.28:395][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-04.03.28:395][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-04.03.28:395][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-04.03.28:396][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-04.03.28:445][948]LogEditorActor: Deleted 14 Actors (0.060 secs)
+[2019.01.26-04.03.32:185][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-04.03.32:190][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tori" FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.26-04.03.32:395][383]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/Tori6572241B4F77753C327763B530710FCB.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori.umap'
+[2019.01.26-04.03.32:455][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tori_BuiltData" FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori_BuiltData.uasset" SILENT=true
+[2019.01.26-04.03.32:838][383]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/Tori_BuiltDataF04475A541A74C7FF86CBCB812A19984.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori_BuiltData.uasset'
+[2019.01.26-04.03.33:825][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-04.03.34:132][524]LogEditorViewport: Clicking on Actor (LMB): PlayerCharacter_C (PlayerCharacter)
+[2019.01.26-04.03.35:359][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-04.03.56:496][115]LogTextFormatter: Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} already exists. Do you want to replace it?".
+[2019.01.26-04.03.58:465][115]LogSlate: Window 'Message' being destroyed
+[2019.01.26-04.03.58:473][115]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.26-04.03.58:534][115]LogAIModule: Creating AISystem for world Production
+[2019.01.26-04.03.58:560][115]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2019.01.26-04.03.58:560][115]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2019.01.26-04.03.58:560][115]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2019.01.26-04.03.58:562][115]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2019.01.26-04.04.00:875][115]LogAIModule: Creating AISystem for world Production
+[2019.01.26-04.04.01:081][115]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/Production23F16AA040EE1E19552559BF0D19F048.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Production.umap'
+[2019.01.26-04.04.01:100][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Production_BuiltData" FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Production_BuiltData.uasset" SILENT=true
+[2019.01.26-04.04.01:511][115]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/Production_BuiltData2D0433CF47B264C894D95C85B26F9DBF.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Production_BuiltData.uasset'
+[2019.01.26-04.04.01:515][115]LogFileHelpers: Saving map 'Production' took 3.036
+[2019.01.26-04.04.01:516][115]Cmd: MAP LOAD FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Production.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.26-04.04.01:522][115]LightingResults: New page: Lighting Build
+[2019.01.26-04.04.01:522][115]LoadErrors: New page: Loading map: Production.umap
+[2019.01.26-04.04.01:552][115]MapCheck: New page: Map Check
+[2019.01.26-04.04.01:552][115]LightingResults: New page: Lighting Build
+[2019.01.26-04.04.01:720][115]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.26-04.04.01:801][115]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.26-04.04.01:801][115]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2019.01.26-04.04.01:801][115]LogFileHelpers: Loading map 'Production' took 0.286
+[2019.01.26-04.04.18:193][ 20]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-04.04.18:205][ 20]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Tori.Tori
+[2019.01.26-04.04.20:224][ 20]LogSlate: Window 'Save Content' being destroyed
+[2019.01.26-04.04.20:229][ 20]Cmd: MAP LOAD FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.26-04.04.20:231][ 20]LightingResults: New page: Lighting Build
+[2019.01.26-04.04.20:232][ 20]LoadErrors: New page: Loading map: Tori.umap
+[2019.01.26-04.04.20:233][ 20]MapCheck: New page: Map Check
+[2019.01.26-04.04.20:233][ 20]LightingResults: New page: Lighting Build
+[2019.01.26-04.04.20:369][ 20]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.26-04.04.20:460][ 20]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.26-04.04.20:461][ 20]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.188ms to complete.
+[2019.01.26-04.04.20:461][ 20]LogFileHelpers: Loading map 'Tori' took 0.233
+[2019.01.26-04.04.21:618][148]LogEditorViewport: Clicking on Actor (LMB): PlayerCharacter_C (PlayerCharacter)
+[2019.01.26-04.04.22:936][277]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.26-04.04.24:757][468]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2019.01.26-04.04.25:744][574]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.26-04.04.28:634][881]LogEditorViewport: Clicking on Actor (LMB): PlayerCharacter_C (PlayerCharacter)
