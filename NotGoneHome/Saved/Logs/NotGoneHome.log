@@ -565,3 +565,305 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.26-03.26.56:323][  1]LogAssetRegistry: Asset discovery search completed in 4.7422 seconds
 [2019.01.26-03.26.56:325][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2019.01.26-03.26.56:325][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2019.01.26-03.27.16:969][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.27.17:177][265]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-03.27.17:191][265]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.26-03.27.17:191][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-03.27.17:191][265]PIE: New page: PIE session: FirstPersonExampleMap (Jan 25, 2019, 5:27:17 PM)
+[2019.01.26-03.27.17:205][265]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.26-03.27.17:232][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027160s)
+[2019.01.26-03.27.17:233][265]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.26-03.27.17:233][265]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2019.01.26-03.27.17:233][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028051s)
+[2019.01.26-03.27.17:297][265]LogInit: XAudio2 using 'DELL U2718Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-03.27.17:310][265]LogInit: FAudioDevice initialized.
+[2019.01.26-03.27.17:354][265]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-03.27.17:358][265]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.25-22.27.17
+[2019.01.26-03.27.17:358][265]LogWorld: Bringing up level for play took: 0.002874
+[2019.01.26-03.27.17:377][265]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.01.26-03.27.17:378][265]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.833
+[2019.01.26-03.27.17:378][265]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.26-03.27.27:411][455]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-841.815 Y=-786.406 Z=303.591] for [FirstPersonProjectile_C]
+[2019.01.26-03.27.27:569][474]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-750.227 Y=-786.147 Z=303.687] for [FirstPersonProjectile_C]
+[2019.01.26-03.27.48:174][935]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.26-03.27.48:174][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.27.48:216][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-03.27.48:217][935]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.26-03.27.48:262][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.27.48:284][936]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.01.26-03.27.48:548][966]Cmd: SELECT NONE
+[2019.01.26-03.28.08:207][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.28.13:521][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2019.01.26-03.28.15:265][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.01.26-03.28.15:694][139]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.01.26-03.28.20:194][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-03.28.20:537][664]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.28.29:932][678]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.28.32:389][946]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.28.36:035][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.29.23:514][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2019.01.26-03.29.28:157][941]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.29.30:250][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-03.29.30:374][162]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.01.26-03.29.31:887][329]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.29.32:013][330]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (Mesh2P)
+[2019.01.26-03.29.32:717][401]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (Mesh2P)
+[2019.01.26-03.29.32:804][408]LogEditorViewport: Clicking on Actor (double click): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.29.33:471][471]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.29.33:538][476]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (FP_Gun)
+[2019.01.26-03.29.37:504][923]LogSlate: Took 0.004094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.26-03.29.39:973][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.30.14:324][921]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.01.26-03.30.14:403][921]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.30.32:545][942]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.26-03.30.32:551][942]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-03.30.32:886][942]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.01.26-03.30.33:674][942]LogSlate: Took 0.008852 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.26-03.30.36:028][ 72]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-03.30.36:031][ 72]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-03.30.44:908][ 67]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.30.47:136][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.30.47:284][322]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-03.31.20:429][760]LogTexture: Display: Building textures: T_ML_FineRubber (AutoDXT, 2048X2048)
+[2019.01.26-03.31.22:861][760]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.26-03.31.27:655][760]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.26-03.31.27:661][760]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-03.31.28:825][760]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2019.01.26-03.31.28:829][760]LogMaterial: Warning: C:\Users\IGMAdmin\NotGoneHome\ggj19-NotGoneHome\NotGoneHome\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.26-03.31.28:829][760]LogMaterial: 	Missing Material Function
+[2019.01.26-03.31.28:829][760]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.01.26-03.31.28:829][760]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.01.26-03.31.28:829][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.01.26-03.31.28:829][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.01.26-03.31.28:829][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.01.26-03.31.28:829][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.01.26-03.31.28:832][760]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2019.01.26-03.31.28:834][760]LogMaterial: Warning: C:\Users\IGMAdmin\NotGoneHome\ggj19-NotGoneHome\NotGoneHome\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.26-03.31.28:834][760]LogMaterial: 	Missing Material Function
+[2019.01.26-03.31.28:834][760]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.01.26-03.31.28:834][760]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.01.26-03.31.28:834][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.01.26-03.31.28:834][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.01.26-03.31.28:834][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.01.26-03.31.28:834][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.01.26-03.31.28:838][760]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2019.01.26-03.31.28:839][760]LogMaterial: Warning: C:\Users\IGMAdmin\NotGoneHome\ggj19-NotGoneHome\NotGoneHome\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.26-03.31.28:839][760]LogMaterial: 	Missing Material Function
+[2019.01.26-03.31.28:839][760]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.01.26-03.31.28:839][760]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.01.26-03.31.28:839][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.01.26-03.31.28:839][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.01.26-03.31.28:839][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.01.26-03.31.28:839][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.01.26-03.31.28:841][760]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2019.01.26-03.31.28:843][760]LogMaterial: Warning: C:\Users\IGMAdmin\NotGoneHome\ggj19-NotGoneHome\NotGoneHome\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.26-03.31.28:843][760]LogMaterial: 	Missing Material Function
+[2019.01.26-03.31.28:843][760]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.01.26-03.31.28:843][760]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.01.26-03.31.28:843][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.01.26-03.31.28:843][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.01.26-03.31.28:843][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.01.26-03.31.28:843][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.01.26-03.31.28:845][760]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2019.01.26-03.31.28:846][760]LogMaterial: Warning: C:\Users\IGMAdmin\NotGoneHome\ggj19-NotGoneHome\NotGoneHome\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.26-03.31.28:846][760]LogMaterial: 	Missing Material Function
+[2019.01.26-03.31.28:846][760]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.01.26-03.31.28:846][760]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.01.26-03.31.28:846][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.01.26-03.31.28:846][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.01.26-03.31.28:846][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.01.26-03.31.28:846][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.01.26-03.31.28:848][760]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2019.01.26-03.31.28:850][760]LogMaterial: Warning: C:\Users\IGMAdmin\NotGoneHome\ggj19-NotGoneHome\NotGoneHome\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.26-03.31.28:850][760]LogMaterial: 	Missing Material Function
+[2019.01.26-03.31.28:850][760]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.01.26-03.31.28:850][760]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.01.26-03.31.28:850][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.01.26-03.31.28:850][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.01.26-03.31.28:850][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.01.26-03.31.28:850][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.01.26-03.31.28:852][760]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2019.01.26-03.31.28:853][760]LogMaterial: Warning: C:\Users\IGMAdmin\NotGoneHome\ggj19-NotGoneHome\NotGoneHome\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.26-03.31.28:854][760]LogMaterial: 	Missing Material Function
+[2019.01.26-03.31.28:854][760]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.01.26-03.31.28:854][760]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.01.26-03.31.28:854][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.01.26-03.31.28:854][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.01.26-03.31.28:854][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.01.26-03.31.28:854][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.01.26-03.31.28:855][760]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2019.01.26-03.31.28:857][760]LogMaterial: Warning: C:\Users\IGMAdmin\NotGoneHome\ggj19-NotGoneHome\NotGoneHome\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.26-03.31.28:857][760]LogMaterial: 	Missing Material Function
+[2019.01.26-03.31.28:857][760]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.01.26-03.31.28:857][760]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.01.26-03.31.28:857][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.01.26-03.31.28:857][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.01.26-03.31.28:857][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.01.26-03.31.28:857][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.01.26-03.31.28:859][760]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2019.01.26-03.31.28:861][760]LogMaterial: Warning: C:\Users\IGMAdmin\NotGoneHome\ggj19-NotGoneHome\NotGoneHome\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.26-03.31.28:861][760]LogMaterial: 	Missing Material Function
+[2019.01.26-03.31.28:861][760]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.01.26-03.31.28:861][760]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.01.26-03.31.28:861][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.01.26-03.31.28:861][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.01.26-03.31.28:861][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.01.26-03.31.28:861][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.01.26-03.31.28:863][760]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2019.01.26-03.31.28:864][760]LogMaterial: Warning: C:\Users\IGMAdmin\NotGoneHome\ggj19-NotGoneHome\NotGoneHome\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.26-03.31.28:864][760]LogMaterial: 	Missing Material Function
+[2019.01.26-03.31.28:864][760]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.01.26-03.31.28:864][760]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.01.26-03.31.28:864][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.01.26-03.31.28:864][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.01.26-03.31.28:864][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.01.26-03.31.28:864][760]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.01.26-03.31.28:865][760]LogSkeletalMesh: Building Skeletal Mesh SK_FPGun...
+[2019.01.26-03.31.28:876][760]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2019.01.26-03.31.28:880][760]LogSkeletalMesh: Building Skeletal Mesh SK_FPGun...
+[2019.01.26-03.31.28:891][760]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2019.01.26-03.31.34:067][990]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-03.31.34:087][990]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.26-03.31.34:087][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-03.31.34:087][990]PIE: New page: PIE session: FirstPersonExampleMap (Jan 25, 2019, 5:31:34 PM)
+[2019.01.26-03.31.34:087][990]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.26-03.31.34:098][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010730s)
+[2019.01.26-03.31.34:098][990]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.26-03.31.34:098][990]LogPlayLevel: PIE: World Init took: (0.000505s)
+[2019.01.26-03.31.34:098][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011348s)
+[2019.01.26-03.31.34:208][990]LogInit: XAudio2 using 'DELL U2718Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-03.31.34:222][990]LogInit: FAudioDevice initialized.
+[2019.01.26-03.31.34:262][990]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-03.31.34:266][990]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.25-22.31.34
+[2019.01.26-03.31.34:267][990]LogWorld: Bringing up level for play took: 0.003644
+[2019.01.26-03.31.34:281][990]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.262
+[2019.01.26-03.31.34:281][990]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.26-03.31.56:096][591]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.26-03.31.56:096][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.31.56:131][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-03.31.56:132][591]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.26-03.31.56:185][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.31.56:210][592]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.26-03.31.59:233][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.32.17:914][990]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-03.32.17:924][990]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.26-03.32.17:924][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-03.32.17:925][990]PIE: New page: PIE session: FirstPersonExampleMap (Jan 25, 2019, 5:32:17 PM)
+[2019.01.26-03.32.17:925][990]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.01.26-03.32.17:937][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012301s)
+[2019.01.26-03.32.17:937][990]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.26-03.32.17:938][990]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2019.01.26-03.32.17:938][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013011s)
+[2019.01.26-03.32.18:097][990]LogInit: XAudio2 using 'DELL U2718Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-03.32.18:131][990]LogInit: FAudioDevice initialized.
+[2019.01.26-03.32.18:171][990]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-03.32.18:177][990]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.01.25-22.32.18
+[2019.01.26-03.32.18:177][990]LogWorld: Bringing up level for play took: 0.004307
+[2019.01.26-03.32.18:193][990]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.35
+[2019.01.26-03.32.18:194][990]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.26-03.33.30:154][583]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1526.609 Y=-136.964 Z=361.639] for [FirstPersonProjectile_C]
+[2019.01.26-03.33.32:391][851]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.26-03.33.32:391][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.33.32:429][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-03.33.32:429][851]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.01.26-03.33.32:486][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-03.33.32:515][852]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.26-03.33.32:852][890]Cmd: SELECT NONE
+[2019.01.26-03.33.39:468][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-03.33.39:545][643]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.26-03.33.40:027][695]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.26-03.33.52:653][ 40]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.33.53:511][121]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-03.33.57:657][576]Cmd: ACTOR SELECT ALL
+[2019.01.26-03.34.00:280][873]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-03.34.00:499][873]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonExampleMap5B75E87C45B3C34EB1A4B8B34B1AFFC7.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.01.26-03.34.00:970][873]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonExampleMap_BuiltDataD06C20A442D9D6709F19938AED14D3EC.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.01.26-03.34.01:692][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-03.34.21:219][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.35.21:801][972]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.26-03.35.37:437][773]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2019.01.26-03.35.38:362][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-03.35.39:594][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-03.35.56:508][254]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.26-03.35.58:803][254]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-03.35.58:823][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tori" FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.26-03.35.59:050][254]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/Tori84CDB8AA416922AF9BA331B05A7BC0F3.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori.umap'
+[2019.01.26-03.35.59:060][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tori_BuiltData" FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori_BuiltData.uasset" SILENT=true
+[2019.01.26-03.35.59:465][254]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/Tori_BuiltData0ABAE6DF4FE597134D8C0A8F9F1315C8.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori_BuiltData.uasset'
+[2019.01.26-03.35.59:471][254]LogFileHelpers: Saving map 'Tori' took 2.957
+[2019.01.26-03.35.59:472][254]Cmd: MAP LOAD FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.26-03.35.59:479][254]LightingResults: New page: Lighting Build
+[2019.01.26-03.35.59:480][254]LoadErrors: New page: Loading map: Tori.umap
+[2019.01.26-03.35.59:482][254]MapCheck: New page: Map Check
+[2019.01.26-03.35.59:482][254]LightingResults: New page: Lighting Build
+[2019.01.26-03.35.59:595][254]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun'
+[2019.01.26-03.35.59:596][254]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun' while loading ../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2019.01.26-03.35.59:596][254]LoadErrors: Error: /Game/FirstPersonBP/Blueprints/FirstPersonCharacter : Can't find file for asset. /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun
+[2019.01.26-03.35.59:596][254]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun'
+[2019.01.26-03.35.59:596][254]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun' while loading ../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset.
+[2019.01.26-03.35.59:716][254]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.26-03.35.59:804][254]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.26-03.35.59:804][254]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2019.01.26-03.35.59:804][254]LogFileHelpers: Loading map 'Tori' took 0.333
+[2019.01.26-03.36.04:605][804]LogSlate: Window 'Message Log' being destroyed
+[2019.01.26-03.36.04:607][804]LogSlate: Window 'Message Log' being destroyed
+[2019.01.26-03.36.16:242][883]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.26-03.36.18:469][883]LogAIModule: Creating AISystem for world Zach
+[2019.01.26-03.36.18:478][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Zach" FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Zach.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.26-03.36.18:666][883]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/Zach7744FD674094802F9782D38CE8379826.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Zach.umap'
+[2019.01.26-03.36.18:676][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Zach_BuiltData" FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Zach_BuiltData.uasset" SILENT=true
+[2019.01.26-03.36.19:079][883]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/Zach_BuiltData4C1A935F4351E12B794088BCFC1B7E99.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Zach_BuiltData.uasset'
+[2019.01.26-03.36.19:083][883]LogFileHelpers: Saving map 'Zach' took 2.835
+[2019.01.26-03.36.19:084][883]Cmd: MAP LOAD FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Zach.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.26-03.36.19:089][883]LightingResults: New page: Lighting Build
+[2019.01.26-03.36.19:090][883]LoadErrors: New page: Loading map: Zach.umap
+[2019.01.26-03.36.19:091][883]MapCheck: New page: Map Check
+[2019.01.26-03.36.19:091][883]LightingResults: New page: Lighting Build
+[2019.01.26-03.36.19:241][883]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.26-03.36.19:311][883]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.26-03.36.19:311][883]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2019.01.26-03.36.19:311][883]LogFileHelpers: Loading map 'Zach' took 0.228
+[2019.01.26-03.36.25:652][267]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.26-03.36.27:860][267]LogAIModule: Creating AISystem for world Chase
+[2019.01.26-03.36.27:879][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Chase" FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Chase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.26-03.36.28:086][267]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/ChaseE806FDF8450DE22C477B9398FB54F407.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Chase.umap'
+[2019.01.26-03.36.28:100][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Chase_BuiltData" FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Chase_BuiltData.uasset" SILENT=true
+[2019.01.26-03.36.28:581][267]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/Chase_BuiltDataD9854B2F4E85161DEA103A8040E6FCD0.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Chase_BuiltData.uasset'
+[2019.01.26-03.36.28:586][267]LogFileHelpers: Saving map 'Chase' took 2.928
+[2019.01.26-03.36.28:587][267]Cmd: MAP LOAD FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Chase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.26-03.36.28:593][267]LightingResults: New page: Lighting Build
+[2019.01.26-03.36.28:594][267]LoadErrors: New page: Loading map: Chase.umap
+[2019.01.26-03.36.28:595][267]MapCheck: New page: Map Check
+[2019.01.26-03.36.28:595][267]LightingResults: New page: Lighting Build
+[2019.01.26-03.36.28:756][267]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.26-03.36.28:826][267]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.26-03.36.28:826][267]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2019.01.26-03.36.28:826][267]LogFileHelpers: Loading map 'Chase' took 0.241
+[2019.01.26-03.36.37:145][851]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.26-03.36.39:454][851]LogAIModule: Creating AISystem for world Production
+[2019.01.26-03.36.39:657][851]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/Production85A373744B1B84139425EFA4DF7EEB20.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Production.umap'
+[2019.01.26-03.36.39:666][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Production_BuiltData" FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Production_BuiltData.uasset" SILENT=true
+[2019.01.26-03.36.40:012][851]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/Production_BuiltData97F6F633486CCC14EE6F9FB748EDD659.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Production_BuiltData.uasset'
+[2019.01.26-03.36.40:016][851]LogFileHelpers: Saving map 'Production' took 2.864
+[2019.01.26-03.36.40:017][851]Cmd: MAP LOAD FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Production.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.26-03.36.40:022][851]LightingResults: New page: Lighting Build
+[2019.01.26-03.36.40:022][851]LoadErrors: New page: Loading map: Production.umap
+[2019.01.26-03.36.40:023][851]MapCheck: New page: Map Check
+[2019.01.26-03.36.40:023][851]LightingResults: New page: Lighting Build
+[2019.01.26-03.36.40:179][851]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.26-03.36.40:249][851]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.26-03.36.40:250][851]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2019.01.26-03.36.40:250][851]LogFileHelpers: Loading map 'Production' took 0.234
+[2019.01.26-03.36.47:898][  8]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-03.36.47:921][  8]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Tori.Tori
+[2019.01.26-03.36.50:834][  8]LogSlate: Window 'Save Content' being destroyed
+[2019.01.26-03.36.50:935][  8]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacterCB8CD40A43979F292FDCF4BE00C22563.tmp' to '../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-03.36.50:939][  8]Cmd: MAP LOAD FILE="../../../../../../Users/IGMAdmin/NotGoneHome/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.26-03.36.50:940][  8]LightingResults: New page: Lighting Build
+[2019.01.26-03.36.50:941][  8]LoadErrors: New page: Loading map: Tori.umap
+[2019.01.26-03.36.50:942][  8]MapCheck: New page: Map Check
+[2019.01.26-03.36.50:942][  8]LightingResults: New page: Lighting Build
+[2019.01.26-03.36.51:138][  8]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.26-03.36.51:209][  8]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.26-03.36.51:209][  8]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2019.01.26-03.36.51:209][  8]LogFileHelpers: Loading map 'Tori' took 0.272
