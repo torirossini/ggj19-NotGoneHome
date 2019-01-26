@@ -1253,3 +1253,929 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.26-22.34.26:020][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interaction/Int_Interaction]
 [2019.01.26-22.34.26:042][273]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/Int_Interaction_Auto4A23A30D14EE37CF631C9B5988CADFBE0.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/Autosaves/Game/Assets/Interaction/Int_Interaction_Auto4.uasset'
 [2019.01.26-22.34.26:043][273]LogFileHelpers: Auto-saving content packages took 0.104
+[2019.01.26-22.35.56:993][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.36.04:353][221]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-22.36.05:205][318]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-22.36.05:207][318]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-22.36.07:265][441]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-22.36.07:905][457]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter19CC1E7348EFAD3BB378619A94FF8906.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-22.36.22:260][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.36.26:275][120]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-22.36.26:278][120]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-22.36.27:005][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.36.46:461][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.36.46:619][230]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Interaction/Int_Interaction.Int_Interaction
+[2019.01.26-22.37.14:028][174]LogSlate: Window 'Int_Interaction*' being destroyed
+[2019.01.26-22.37.14:031][174]LogSlate: Window 'Int_Interaction*' being destroyed
+[2019.01.26-22.37.15:107][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.37.17:917][611]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-22.37.32:728][867]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2019.01.26-22.37.32:731][867]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2019.01.26-22.37.48:622][356]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-22.40.26:237][628]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.26-22.40.30:723][774]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.26-22.43.11:296][534]LogEditorTransaction: Undo Delete current selection
+[2019.01.26-22.44.37:535][ 11]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-22.44.38:499][ 50]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter765174B045579A16676DA4BB2D524431.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-22.45.25:365][735]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-22.45.26:216][769]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter194313C6461E52DDD855C0AFA81A1CF9.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-22.48.14:663][226]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/Tori_Auto58A73A3B4406EAC32DF080096C25DA9FC.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/Autosaves/Game/Maps/Tori_Auto5.umap'
+[2019.01.26-22.48.14:666][226]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tori' took 0.205
+[2019.01.26-22.48.14:666][226]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.205
+[2019.01.26-22.48.14:668][226]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.01.26-22.48.14:668][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.01.26-22.48.14:724][226]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter_Auto5D061E5CB48E4B135C18D548B6B16755C.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto5.uasset'
+[2019.01.26-22.48.14:726][226]LogFileHelpers: Auto-saving content packages took 0.058
+[2019.01.26-22.50.08:046][726]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-22.50.08:992][750]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter6304767846982575A10ABE81AAD1D67C.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-22.50.10:477][853]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-22.50.10:480][853]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-22.50.12:023][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.01.26-22.50.13:148][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-22.50.13:799][181]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.26-22.50.17:165][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.50.17:385][562]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-22.50.17:401][562]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.50.17:402][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-22.50.17:402][562]PIE: New page: PIE session: Tori (Jan 26, 2019, 12:50:17 PM)
+[2019.01.26-22.50.17:402][562]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-22.50.17:412][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011312s)
+[2019.01.26-22.50.17:413][562]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-22.50.17:413][562]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2019.01.26-22.50.17:413][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.012181s)
+[2019.01.26-22.50.17:492][562]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-22.50.17:521][562]LogInit: FAudioDevice initialized.
+[2019.01.26-22.50.17:558][562]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-22.50.17:561][562]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-17.50.17
+[2019.01.26-22.50.17:562][562]LogWorld: Bringing up level for play took: 0.002259
+[2019.01.26-22.50.17:579][562]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 0.906
+[2019.01.26-22.50.17:580][562]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.50.19:929][837]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.50.19:929][837]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.50.21:770][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.50.21:770][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.50.21:808][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-22.50.21:808][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.50.21:860][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.50.21:894][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.01.26-22.50.31:770][901]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.01.26-22.50.32:023][915]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.01.26-22.50.33:401][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.50.42:449][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-22.50.42:466][ 71]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.50.42:466][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-22.50.42:466][ 71]PIE: New page: PIE session: Tori (Jan 26, 2019, 12:50:42 PM)
+[2019.01.26-22.50.42:466][ 71]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-22.50.42:476][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009834s)
+[2019.01.26-22.50.42:477][ 71]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-22.50.42:477][ 71]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2019.01.26-22.50.42:477][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.010490s)
+[2019.01.26-22.50.42:571][ 71]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-22.50.42:585][ 71]LogInit: FAudioDevice initialized.
+[2019.01.26-22.50.42:626][ 71]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-22.50.42:628][ 71]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-17.50.42
+[2019.01.26-22.50.42:629][ 71]LogWorld: Bringing up level for play took: 0.002170
+[2019.01.26-22.50.42:645][ 71]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori -0.028
+[2019.01.26-22.50.42:646][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.50.45:334][387]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.50.45:468][403]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.50.46:792][562]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.50.46:976][584]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.50.47:135][603]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.50.50:715][ 32]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.50.50:716][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.50.50:754][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-22.50.50:754][ 32]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.50.50:808][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.50.50:844][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.01.26-22.50.56:222][670]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.01.26-22.50.59:982][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-22.51.16:229][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.51.16:346][286]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-22.51.16:388][286]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.51.16:388][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-22.51.16:389][286]PIE: New page: PIE session: Tori (Jan 26, 2019, 12:51:16 PM)
+[2019.01.26-22.51.16:389][286]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-22.51.16:416][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026655s)
+[2019.01.26-22.51.16:417][286]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-22.51.16:417][286]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2019.01.26-22.51.16:417][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.027960s)
+[2019.01.26-22.51.16:515][286]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-22.51.16:531][286]LogInit: FAudioDevice initialized.
+[2019.01.26-22.51.16:568][286]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-22.51.16:571][286]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-17.51.16
+[2019.01.26-22.51.16:572][286]LogWorld: Bringing up level for play took: 0.002668
+[2019.01.26-22.51.16:589][286]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori -0.085
+[2019.01.26-22.51.16:589][286]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.51.20:372][734]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.51.20:372][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.51.20:408][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-22.51.20:408][734]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.51.20:463][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.51.20:494][735]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2019.01.26-22.51.21:595][862]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.01.26-22.51.23:847][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-22.51.31:745][939]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-22.51.35:143][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.51.35:235][317]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-22.51.35:250][317]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.51.35:250][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-22.51.35:251][317]PIE: New page: PIE session: Tori (Jan 26, 2019, 12:51:35 PM)
+[2019.01.26-22.51.35:251][317]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-22.51.35:262][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010902s)
+[2019.01.26-22.51.35:262][317]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-22.51.35:263][317]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2019.01.26-22.51.35:263][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.011913s)
+[2019.01.26-22.51.35:368][317]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-22.51.35:388][317]LogInit: FAudioDevice initialized.
+[2019.01.26-22.51.35:425][317]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-22.51.35:429][317]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-17.51.35
+[2019.01.26-22.51.35:429][317]LogWorld: Bringing up level for play took: 0.002535
+[2019.01.26-22.51.35:447][317]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 0.773
+[2019.01.26-22.51.35:447][317]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.51.44:141][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.51.44:142][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.51.44:180][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-22.51.44:180][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.51.44:237][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.51.44:270][351]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.01.26-22.51.44:587][386]Cmd: SELECT NONE
+[2019.01.26-22.51.55:349][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.52.26:207][970]LogActorFactory: Actor Factory created SM_Rock
+[2019.01.26-22.52.26:783][ 34]LogActorFactory: Actor Factory created SM_Rock
+[2019.01.26-22.52.31:086][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.52.45:009][ 76]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.01.26-22.52.53:581][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.52.58:915][606]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-22.52.58:931][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.52.58:931][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-22.52.58:931][606]PIE: New page: PIE session: Tori (Jan 26, 2019, 12:52:58 PM)
+[2019.01.26-22.52.58:931][606]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-22.52.58:941][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010417s)
+[2019.01.26-22.52.58:942][606]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-22.52.58:942][606]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2019.01.26-22.52.58:942][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.011434s)
+[2019.01.26-22.52.59:021][606]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-22.52.59:038][606]LogInit: FAudioDevice initialized.
+[2019.01.26-22.52.59:079][606]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-22.52.59:082][606]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-17.52.59
+[2019.01.26-22.52.59:083][606]LogWorld: Bringing up level for play took: 0.002591
+[2019.01.26-22.52.59:098][606]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 0.425
+[2019.01.26-22.52.59:100][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.53.03:465][121]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.53.03:708][150]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.53.03:873][170]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.53.04:207][210]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.53.04:811][282]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.53.04:995][304]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.53.05:174][325]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.53.06:936][534]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.53.12:732][226]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.53.12:732][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.53.12:770][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-22.53.12:771][226]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.53.12:825][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.53.12:854][227]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.01.26-22.53.15:132][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.53.16:123][584]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-22.53.58:301][225]LogEditorTransaction: Undo Move Node
+[2019.01.26-22.54.04:439][631]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-22.54.05:299][654]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacterA19FE3D34F4B2C4A6668D993DD27A6AB.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-22.54.10:955][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.54.57:903][921]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-22.54.58:717][937]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter84CE99034C17F9D971A9759830162B30.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-22.54.59:563][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.54.59:611][  4]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-22.54.59:613][  4]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-22.55.00:445][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-22.55.02:614][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.55.02:673][300]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-22.55.02:687][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.55.02:688][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-22.55.02:688][300]PIE: New page: PIE session: Tori (Jan 26, 2019, 12:55:02 PM)
+[2019.01.26-22.55.02:688][300]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-22.55.02:699][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011350s)
+[2019.01.26-22.55.02:700][300]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-22.55.02:700][300]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2019.01.26-22.55.02:700][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.012327s)
+[2019.01.26-22.55.02:823][300]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-22.55.02:853][300]LogInit: FAudioDevice initialized.
+[2019.01.26-22.55.02:891][300]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-22.55.02:894][300]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-17.55.02
+[2019.01.26-22.55.02:896][300]LogWorld: Bringing up level for play took: 0.002480
+[2019.01.26-22.55.02:913][300]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 0.239
+[2019.01.26-22.55.02:913][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.55.04:039][427]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.55.04:039][427]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.06:501][716]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.55.06:501][716]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.06:857][758]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.55.06:858][758]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.07:208][800]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.55.07:208][800]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.07:737][863]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.55.07:737][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.12:886][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.55.12:886][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.55.12:924][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-22.55.12:924][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.55.12:978][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.55.13:019][479]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.01.26-22.55.14:059][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2019.01.26-22.55.17:823][  4]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.01.26-22.55.30:399][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.55.30:701][360]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-22.55.37:597][827]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-22.55.38:220][843]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacterDEC8FFAF4366F54DC30D8482B565943C.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-22.55.39:265][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.55.39:302][921]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-22.55.39:304][921]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-22.55.39:988][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.55.40:054][993]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-22.55.40:074][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.55.40:074][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-22.55.40:074][993]PIE: New page: PIE session: Tori (Jan 26, 2019, 12:55:40 PM)
+[2019.01.26-22.55.40:074][993]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-22.55.40:086][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011444s)
+[2019.01.26-22.55.40:086][993]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-22.55.40:087][993]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2019.01.26-22.55.40:087][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.012349s)
+[2019.01.26-22.55.40:189][993]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-22.55.40:212][993]LogInit: FAudioDevice initialized.
+[2019.01.26-22.55.40:249][993]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-22.55.40:251][993]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-17.55.40
+[2019.01.26-22.55.40:253][993]LogWorld: Bringing up level for play took: 0.002597
+[2019.01.26-22.55.40:270][993]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori -0.405
+[2019.01.26-22.55.40:270][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.55.41:647][151]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.55.41:647][151]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.41:849][175]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.55.41:849][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.42:082][203]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.55.42:082][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.42:258][224]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.55.42:258][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.42:458][248]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.55.42:458][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.42:650][271]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.55.42:650][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.43:098][324]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.55.43:098][324]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.43:465][368]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.55.43:465][368]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.44:327][471]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.55.44:327][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.44:577][501]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.55.44:577][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.44:912][541]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_Tori.Tori:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GrabObject:022B
+[2019.01.26-22.55.44:912][541]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.45:509][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.49:375][ 74]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.50:070][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.50:561][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.51:298][304]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.53:360][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.53:684][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.54:163][646]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.54:692][709]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.55.55:788][839]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.55.55:789][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.55.55:827][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-22.55.55:827][839]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.55.55:882][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.55.55:921][840]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2019.01.26-22.56.03:920][738]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.26-22.56.05:898][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.56.05:966][967]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-22.56.05:980][967]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.56.05:981][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-22.56.05:981][967]PIE: New page: PIE session: Tori (Jan 26, 2019, 12:56:05 PM)
+[2019.01.26-22.56.05:981][967]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-22.56.05:992][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010761s)
+[2019.01.26-22.56.05:992][967]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-22.56.05:992][967]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2019.01.26-22.56.05:992][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.011462s)
+[2019.01.26-22.56.06:063][967]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-22.56.06:075][967]LogInit: FAudioDevice initialized.
+[2019.01.26-22.56.06:108][967]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-22.56.06:111][967]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-17.56.06
+[2019.01.26-22.56.06:112][967]LogWorld: Bringing up level for play took: 0.002350
+[2019.01.26-22.56.06:128][967]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori -0.546
+[2019.01.26-22.56.06:129][967]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.56.07:772][156]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.56.09:833][402]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.56.10:033][426]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.56.10:208][447]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.56.10:368][466]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.56.11:029][545]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.56.11:885][647]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.56.13:630][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.56.14:119][912]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.56.14:977][ 14]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.56.15:390][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.56.16:600][207]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.56.16:600][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.56.16:635][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-22.56.16:636][207]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.56.16:691][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.56.16:725][208]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.01.26-22.57.10:204][600]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.01.26-22.57.11:009][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.01.26-22.57.11:922][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.57.12:545][815]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-22.57.33:522][940]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-22.57.34:540][967]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter5C664E6248355FB1F4B5269AAD6EF363.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-22.57.37:034][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.57.55:179][462]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-22.57.56:019][486]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter9745D3C446EF864215B0C683A29FC005.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-22.57.56:904][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.57.56:990][555]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-22.57.56:993][555]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-22.57.57:552][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.57.57:624][607]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-22.57.57:639][607]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.57.57:639][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-22.57.57:639][607]PIE: New page: PIE session: Tori (Jan 26, 2019, 12:57:57 PM)
+[2019.01.26-22.57.57:640][607]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-22.57.57:651][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010973s)
+[2019.01.26-22.57.57:651][607]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-22.57.57:652][607]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2019.01.26-22.57.57:652][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.012030s)
+[2019.01.26-22.57.57:861][607]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-22.57.57:880][607]LogInit: FAudioDevice initialized.
+[2019.01.26-22.57.57:923][607]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-22.57.57:927][607]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-17.57.57
+[2019.01.26-22.57.57:928][607]LogWorld: Bringing up level for play took: 0.002720
+[2019.01.26-22.57.57:944][607]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 1.27
+[2019.01.26-22.57.57:944][607]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.57.59:422][779]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.58.00:364][892]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-22.58.00:885][954]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.58.02:684][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.58.06:924][673]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.58.07:441][735]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.58.07:833][782]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.58.08:041][807]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.58.08:258][833]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.58.15:287][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.58.15:288][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.58.15:326][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-22.58.15:326][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.58.15:390][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-22.58.15:424][671]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2019.01.26-22.58.37:515][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.58.37:578][968]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-22.59.45:724][376]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-22.59.46:331][404]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter4473D942478BFF68297389A3C80FD233.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-22.59.46:899][453]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.26-22.59.48:270][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.59.49:171][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-22.59.49:219][657]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-22.59.49:246][657]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.59.49:246][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-22.59.49:246][657]PIE: New page: PIE session: Tori (Jan 26, 2019, 12:59:49 PM)
+[2019.01.26-22.59.49:246][657]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-22.59.49:256][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009808s)
+[2019.01.26-22.59.49:256][657]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-22.59.49:256][657]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2019.01.26-22.59.49:257][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.010466s)
+[2019.01.26-22.59.49:367][657]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-22.59.49:380][657]LogInit: FAudioDevice initialized.
+[2019.01.26-22.59.49:415][657]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-22.59.49:419][657]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-17.59.49
+[2019.01.26-22.59.49:419][657]LogWorld: Bringing up level for play took: 0.002655
+[2019.01.26-22.59.49:437][657]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 0.762
+[2019.01.26-22.59.49:437][657]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-22.59.51:162][855]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-22.59.52:199][979]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-22.59.52:516][ 17]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-22.59.52:866][ 59]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-22.59.53:251][105]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-22.59.53:771][167]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-22.59.55:421][364]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.59.55:421][364]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-22.59.55:814][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.59.55:814][411]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-22.59.56:289][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.59.56:289][468]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-22.59.56:645][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.59.56:645][510]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-22.59.56:996][552]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.59.56:996][552]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-22.59.57:204][577]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.59.57:205][577]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-22.59.57:397][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.59.57:397][600]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-22.59.57:580][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-22.59.57:580][622]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-22.59.59:995][904]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.00.01:897][130]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.00.01:897][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.00.01:936][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-23.00.01:936][130]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.00.01:993][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.00.02:026][131]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.01.26-23.00.08:255][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.01.26-23.00.08:323][791]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.26-23.00.10:218][994]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-23.00.10:388][995]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FirstPersonCamera)
+[2019.01.26-23.00.12:003][150]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.26-23.00.16:121][572]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.26-23.00.29:065][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.01.44:318][833]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/Tori_Auto6335B39EF49D63E3CB0323ABCB4295CCD.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/Autosaves/Game/Maps/Tori_Auto6.umap'
+[2019.01.26-23.01.44:327][833]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tori' took 0.283
+[2019.01.26-23.01.44:327][833]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.283
+[2019.01.26-23.01.44:329][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.01.26-23.01.44:329][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.01.26-23.01.44:395][833]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter_Auto65B48A89D46E7D734A76396B988639FFD.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto6.uasset'
+[2019.01.26-23.01.44:396][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Prefabs/Cube_Blueprint] ([1] browsable assets)...
+[2019.01.26-23.01.44:419][833]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Prefabs/Cube_Blueprint.Cube_Blueprint]
+[2019.01.26-23.01.44:419][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Prefabs/Cube_Blueprint]
+[2019.01.26-23.01.44:456][833]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/Cube_Blueprint_Auto6B68C9C6247A6FDDF666233A6B6ED52E4.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/Autosaves/Game/Assets/Prefabs/Cube_Blueprint_Auto6.uasset'
+[2019.01.26-23.01.44:457][833]LogFileHelpers: Auto-saving content packages took 0.128
+[2019.01.26-23.07.01:020][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.07.48:652][892]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-23.07.49:481][934]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter78878F3A46F5D6A75A8109ACB8B02DC4.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-23.07.51:363][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.07.51:497][ 98]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter72670CAB4FF82F90571E96BD7AB77E48.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-23.07.56:405][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.07.56:501][533]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-23.07.56:504][533]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-23.07.57:753][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.07.57:814][668]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-23.07.57:831][668]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.07.57:831][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-23.07.57:831][668]PIE: New page: PIE session: Tori (Jan 26, 2019, 1:07:57 PM)
+[2019.01.26-23.07.57:831][668]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-23.07.57:842][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011026s)
+[2019.01.26-23.07.57:843][668]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-23.07.57:843][668]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2019.01.26-23.07.57:843][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.012029s)
+[2019.01.26-23.07.57:929][668]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-23.07.57:941][668]LogInit: FAudioDevice initialized.
+[2019.01.26-23.07.57:984][668]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-23.07.57:987][668]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-18.07.57
+[2019.01.26-23.07.57:988][668]LogWorld: Bringing up level for play took: 0.002544
+[2019.01.26-23.07.58:004][668]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori -0.671
+[2019.01.26-23.07.58:004][668]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.08.00:158][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.08.00:158][918]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.08.01:339][ 59]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.08.01:732][106]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.08.02:085][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.08.02:086][148]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.08.03:504][318]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.08.03:504][318]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.08.03:935][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.08.03:935][369]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.08.04:303][413]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.08.04:303][413]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.08.04:740][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.08.04:740][465]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.08.05:465][552]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.08.05:465][552]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.08.06:007][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.08.06:007][617]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.08.12:681][411]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.08.12:681][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.08.12:720][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-23.08.12:721][411]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.08.12:776][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.08.12:820][412]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2019.01.26-23.08.15:451][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.08.15:506][712]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-23.08.37:563][455]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-23.08.38:238][482]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacterF97997C4421F9E1D4F43B5B064057687.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-23.08.39:296][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.08.57:147][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.09.51:581][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2019.01.26-23.09.53:265][574]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.01.26-23.09.54:002][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2019.01.26-23.09.55:073][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.10.11:244][524]Cmd: DELETE
+[2019.01.26-23.10.11:244][524]Cmd: ACTOR DELETE
+[2019.01.26-23.10.11:250][524]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-23.10.11:302][524]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2019.01.26-23.10.24:492][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2019.01.26-23.10.29:730][560]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.01.26-23.10.34:787][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.10.34:853][114]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-23.10.34:879][114]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.10.34:879][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-23.10.34:879][114]PIE: New page: PIE session: Tori (Jan 26, 2019, 1:10:34 PM)
+[2019.01.26-23.10.34:879][114]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-23.10.34:889][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010128s)
+[2019.01.26-23.10.34:890][114]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-23.10.34:890][114]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2019.01.26-23.10.34:890][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.011078s)
+[2019.01.26-23.10.34:984][114]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-23.10.34:999][114]LogInit: FAudioDevice initialized.
+[2019.01.26-23.10.35:037][114]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-23.10.35:040][114]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-18.10.35
+[2019.01.26-23.10.35:041][114]LogWorld: Bringing up level for play took: 0.002777
+[2019.01.26-23.10.35:057][114]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 0.383
+[2019.01.26-23.10.35:058][114]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.10.36:477][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.10.36:477][277]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.10.37:373][384]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.10.37:373][384]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.10.37:641][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.10.37:641][416]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.10.37:827][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.10.37:827][438]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.10.40:228][725]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.10.40:595][769]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.10.40:778][791]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.10.40:930][809]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.10.41:255][848]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.41:664][897]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.41:857][920]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.42:031][941]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.42:198][961]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.42:391][984]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.42:713][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.10.42:713][ 22]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.10.42:897][ 44]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.10.42:897][ 44]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.10.43:055][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.10.43:055][ 63]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.10.43:230][ 84]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.10.43:230][ 84]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.10.43:571][125]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.10.43:571][125]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.10.43:772][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.10.43:772][149]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.10.43:963][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.10.43:963][172]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.10.44:413][226]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.44:604][249]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.44:799][272]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.45:146][313]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.46:197][439]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.46:371][460]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.46:566][483]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.46:733][502]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.46:897][521]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.47:067][541]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.47:207][558]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.10.48:373][697]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.10.48:373][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.10.48:412][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-23.10.48:412][697]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.10.48:469][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.10.48:504][698]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2019.01.26-23.10.52:740][155]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.26-23.10.54:869][369]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.01.26-23.10.56:175][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.10.56:236][508]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Prefabs/Cube_Blueprint.Cube_Blueprint
+[2019.01.26-23.11.28:173][ 45]LogSlate: Window 'Cube_Blueprint*' being destroyed
+[2019.01.26-23.11.28:176][ 45]LogSlate: Window 'Cube_Blueprint*' being destroyed
+[2019.01.26-23.11.28:266][ 45]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.26-23.11.29:487][167]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-23.12.48:305][ 53]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/Tori_Auto7B84D831F4E96159BFBD0DDBB04D67F82.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/Autosaves/Game/Maps/Tori_Auto7.umap'
+[2019.01.26-23.12.48:309][ 53]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tori' took 0.268
+[2019.01.26-23.12.48:309][ 53]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.268
+[2019.01.26-23.13.42:551][216]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-23.13.42:599][216]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.13.42:599][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-23.13.42:599][216]PIE: New page: PIE session: Tori (Jan 26, 2019, 1:13:42 PM)
+[2019.01.26-23.13.42:599][216]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-23.13.42:623][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024248s)
+[2019.01.26-23.13.42:624][216]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-23.13.42:624][216]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2019.01.26-23.13.42:624][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.025327s)
+[2019.01.26-23.13.42:740][216]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-23.13.42:765][216]LogInit: FAudioDevice initialized.
+[2019.01.26-23.13.42:809][216]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-23.13.42:811][216]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-18.13.42
+[2019.01.26-23.13.42:812][216]LogWorld: Bringing up level for play took: 0.002299
+[2019.01.26-23.13.42:829][216]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 0.157
+[2019.01.26-23.13.42:829][216]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.13.45:056][427]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.13.45:056][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.13.45:114][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-23.13.45:115][427]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.13.45:172][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.13.45:243][428]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2019.01.26-23.13.46:798][589]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-23.13.46:812][589]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.13.46:812][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-23.13.46:813][589]PIE: New page: PIE session: Tori (Jan 26, 2019, 1:13:46 PM)
+[2019.01.26-23.13.46:813][589]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-23.13.46:823][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010613s)
+[2019.01.26-23.13.46:824][589]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-23.13.46:824][589]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2019.01.26-23.13.46:824][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.011510s)
+[2019.01.26-23.13.46:911][589]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-23.13.46:930][589]LogInit: FAudioDevice initialized.
+[2019.01.26-23.13.46:964][589]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-23.13.46:967][589]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-18.13.46
+[2019.01.26-23.13.46:968][589]LogWorld: Bringing up level for play took: 0.002409
+[2019.01.26-23.13.46:984][589]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 0.312
+[2019.01.26-23.13.46:984][589]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.13.49:097][836]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.13.49:455][879]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.13.49:690][907]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.13.49:884][930]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.13.50:067][952]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.13.50:234][972]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.13.51:610][136]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.13.54:481][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Grab Object Graph:  GrabObject Node:  Branch
+[2019.01.26-23.13.54:481][479]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Not simulating physics!
+[2019.01.26-23.13.56:588][730]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.13.57:059][786]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.13.57:244][808]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.13.57:394][826]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.13.57:579][848]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Is simulating physics
+[2019.01.26-23.13.58:849][  0]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.13.58:849][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.13.58:897][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-23.13.58:898][  0]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.13.58:964][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.13.59:001][  1]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2019.01.26-23.14.00:609][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-23.14.03:150][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.14.07:014][846]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-23.14.14:488][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.14.50:515][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.15.49:539][427]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-23.15.49:542][427]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-23.15.53:029][774]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FirstPersonCamera)
+[2019.01.26-23.15.54:673][940]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-23.15.56:267][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-23.15.56:269][109]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-23.16.38:512][ 61]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-23.16.39:661][ 85]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacterEF1817794B9409699DED15B409FD56D7.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-23.16.41:965][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.16.42:751][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.16.42:821][326]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-23.16.42:858][326]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.16.42:858][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-23.16.42:858][326]PIE: New page: PIE session: Tori (Jan 26, 2019, 1:16:42 PM)
+[2019.01.26-23.16.42:858][326]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-23.16.42:872][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013298s)
+[2019.01.26-23.16.42:872][326]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-23.16.42:872][326]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2019.01.26-23.16.42:872][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.014171s)
+[2019.01.26-23.16.43:048][326]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-23.16.43:060][326]LogInit: FAudioDevice initialized.
+[2019.01.26-23.16.43:103][326]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-23.16.43:106][326]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-18.16.43
+[2019.01.26-23.16.43:107][326]LogWorld: Bringing up level for play took: 0.002447
+[2019.01.26-23.16.43:124][326]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 0.452
+[2019.01.26-23.16.43:124][326]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.16.45:220][572]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.16.45:403][594]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.16.45:572][614]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.16.45:732][633]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.16.45:881][651]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.16.46:032][669]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.16.46:536][729]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.16.46:536][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.16.46:578][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-23.16.46:578][729]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.16.46:643][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.16.46:680][730]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2019.01.26-23.16.50:103][119]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.01.26-23.16.52:745][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.17.27:362][756]LogEditorTransaction: Undo Add Component
+[2019.01.26-23.17.52:346][552]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-23.17.52:376][552]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a PhysicsHandleComponent, therefore ' Target ' must have a connection.
+[2019.01.26-23.17.52:723][552]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [6122.43] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 376 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2019.01.26-23.17.53:210][575]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacterB763BDE748FACC6CE29D8386D164F72F.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-23.18.21:086][ 19]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-23.18.22:042][ 69]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter323F71084F5DC85815A1AE8DA4C0D497.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-23.18.23:173][164]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-23.18.23:191][164]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.18.23:191][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-23.18.23:191][164]PIE: New page: PIE session: Tori (Jan 26, 2019, 1:18:23 PM)
+[2019.01.26-23.18.23:191][164]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-23.18.23:201][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010779s)
+[2019.01.26-23.18.23:202][164]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-23.18.23:202][164]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2019.01.26-23.18.23:202][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.011465s)
+[2019.01.26-23.18.23:358][164]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-23.18.23:371][164]LogInit: FAudioDevice initialized.
+[2019.01.26-23.18.23:410][164]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-23.18.23:413][164]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-18.18.23
+[2019.01.26-23.18.23:414][164]LogWorld: Bringing up level for play took: 0.002356
+[2019.01.26-23.18.23:430][164]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 0.759
+[2019.01.26-23.18.23:430][164]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.18.25:597][402]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.18.25:597][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.18.25:638][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-23.18.25:639][402]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.18.25:695][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.18.25:754][403]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2019.01.26-23.18.26:303][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.18.27:555][607]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-23.18.27:570][607]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.18.27:570][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-23.18.27:570][607]PIE: New page: PIE session: Tori (Jan 26, 2019, 1:18:27 PM)
+[2019.01.26-23.18.27:570][607]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-23.18.27:580][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010418s)
+[2019.01.26-23.18.27:581][607]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-23.18.27:581][607]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2019.01.26-23.18.27:581][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.011146s)
+[2019.01.26-23.18.27:670][607]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-23.18.27:686][607]LogInit: FAudioDevice initialized.
+[2019.01.26-23.18.27:724][607]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-23.18.27:726][607]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-18.18.27
+[2019.01.26-23.18.27:727][607]LogWorld: Bringing up level for play took: 0.002223
+[2019.01.26-23.18.27:742][607]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 1.072
+[2019.01.26-23.18.27:742][607]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.18.30:374][915]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.18.30:558][937]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.18.30:710][955]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.18.30:876][975]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.18.31:037][994]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.18.31:205][ 14]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.18.31:630][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.18.31:630][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.18.31:669][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-23.18.31:669][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.18.31:727][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.18.31:756][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2019.01.26-23.18.35:482][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.19.39:373][529]LogEditorTransaction: Undo Delete current selection
+[2019.01.26-23.20.03:259][988]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.26-23.20.06:332][ 62]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.26-23.20.23:708][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.20.23:769][388]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-23.20.24:844][422]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter206D9EC6479B07EC8363289233628521.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-23.23.00:321][457]LogEditorTransaction: Undo Move Node
+[2019.01.26-23.28.06:701][914]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-23.28.38:711][622]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/Tori_Auto826D2BB6240420417D7B8CAAEA08CB688.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/Autosaves/Game/Maps/Tori_Auto8.umap'
+[2019.01.26-23.28.38:715][622]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tori' took 0.255
+[2019.01.26-23.28.38:715][622]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.255
+[2019.01.26-23.28.38:718][622]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.01.26-23.28.38:718][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.01.26-23.28.38:795][622]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter_Auto83C2971334ADBEB4CBC9B4F90C9A04A95.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto8.uasset'
+[2019.01.26-23.28.38:798][622]LogFileHelpers: Auto-saving content packages took 0.081
+[2019.01.26-23.29.10:437][468]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-23.29.11:440][495]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter91F577A54EBB6A519EB5C5915BC5D0BF.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-23.29.12:677][582]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-23.29.12:680][582]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-23.29.13:498][658]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-23.29.13:515][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.29.13:515][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-23.29.13:516][658]PIE: New page: PIE session: Tori (Jan 26, 2019, 1:29:13 PM)
+[2019.01.26-23.29.13:516][658]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-23.29.13:527][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010816s)
+[2019.01.26-23.29.13:527][658]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-23.29.13:528][658]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2019.01.26-23.29.13:528][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.011969s)
+[2019.01.26-23.29.13:661][658]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-23.29.13:687][658]LogInit: FAudioDevice initialized.
+[2019.01.26-23.29.13:723][658]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-23.29.13:726][658]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-18.29.13
+[2019.01.26-23.29.13:727][658]LogWorld: Bringing up level for play took: 0.002686
+[2019.01.26-23.29.13:743][658]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 1.069
+[2019.01.26-23.29.13:744][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.29.21:540][574]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.29.22:043][634]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.29.22:202][653]LogBlueprintUserMessages: [Cube_Blueprint] Hello
+[2019.01.26-23.29.56:313][706]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.29.56:313][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.29.56:350][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-23.29.56:350][706]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.29.56:402][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.29.56:436][707]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2019.01.26-23.30.13:922][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.30.14:051][999]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.01.26-23.31.12:113][553]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-23.31.12:903][603]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter970C26D54F98296BD0BC5585A5008059.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-23.31.13:989][715]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.26-23.31.14:853][797]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.26-23.31.15:733][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.31.17:240][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-23.31.17:261][ 49]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.31.17:261][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-23.31.17:261][ 49]PIE: New page: PIE session: Tori (Jan 26, 2019, 1:31:17 PM)
+[2019.01.26-23.31.17:261][ 49]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tori
+[2019.01.26-23.31.17:272][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010796s)
+[2019.01.26-23.31.17:273][ 49]LogAIModule: Creating AISystem for world Tori
+[2019.01.26-23.31.17:273][ 49]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2019.01.26-23.31.17:273][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tori.Tori to /Game/Maps/UEDPIE_0_Tori.Tori (0.011507s)
+[2019.01.26-23.31.17:356][ 49]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.26-23.31.17:368][ 49]LogInit: FAudioDevice initialized.
+[2019.01.26-23.31.17:401][ 49]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.26-23.31.17:403][ 49]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tori.Tori up for play (max tick rate 0) at 2019.01.26-18.31.17
+[2019.01.26-23.31.17:403][ 49]LogWorld: Bringing up level for play took: 0.001563
+[2019.01.26-23.31.17:418][ 49]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tori 0.741
+[2019.01.26-23.31.17:419][ 49]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.31.24:772][916]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.31.24:772][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.31.24:811][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-23.31.24:812][916]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tori.Tori:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tori.Tori:PersistentLevel.Tori' with GeneratedClass '/Game/Maps/Tori.Tori_C' with ClassGeneratedBy '/Game/Maps/Tori.Tori:PersistentLevel.Tori'
+[2019.01.26-23.31.24:872][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-23.31.24:903][917]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2019.01.26-23.32.11:614][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-23.33.19:760][283]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.01.26-23.33.20:444][310]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter2015A8A34377E35FBD4BB2BBCFFADDC3.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-23.33.26:319][749]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/FirstPersonCharacter312FFC6048F3924E973ABE8DEDD7B621.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.26-23.33.27:610][841]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-23.33.27:613][841]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.01.26-23.33.30:911][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tori" FILE="../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.26-23.33.31:090][215]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Saved/ToriAA05FE424FADD2A1C4EF81A4C51E972C.tmp' to '../../../../../../Users/IGMAdmin/Documents/GitHub/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Tori.umap'
+[2019.01.26-23.33.34:874][638]MapCheck: New page: Map Check
+[2019.01.26-23.33.34:887][638]LightingResults: New page: Lighting Build - Jan 26, 2019, 1:33:34 PM
+[2019.01.26-23.33.34:922][638]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.26-23.33.35:076][638]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.26-23.33.35:097][638]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.26-23.33.35:632][638]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.26-23.33.35:632][638]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9696
+[2019.01.26-23.33.36:216][638]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.26-23.33.36:216][638]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.26-23.33.36:216][638]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.26-23.33.36:216][638]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.26-23.33.36:216][638]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.26-23.33.36:468][638]LogEditorBuildUtils: Build time 0:01
+[2019.01.26-23.33.36:485][638]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2019.01.26-23.33.36:503][638]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2019.01.26-23.33.36:509][638]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.26-23.33.36:553][639]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2019.01.26-23.33.36:571][639]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.26-23.33.36:571][639]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2019.01.26-23.33.36:582][639]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.26-23.33.36:601][640]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.01.26-23.33.36:609][640]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.26-23.33.36:609][640]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.01.26-23.33.37:626][641]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.26-23.33.54:142][280]Job is a success!
+[2019.01.26-23.33.54:875][281]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.032s
+[2019.01.26-23.33.54:875][281]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.26-23.33.54:876][281]LogVolumetricLightmapImport:      BrickData 335x5x5 = 0.3Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.01.26-23.33.54:876][281]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.26-23.33.54:876][281]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2019.01.26-23.33.54:876][281]LogVolumetricLightmapImport:          1: 6.0% covering 6.3% of volume
+[2019.01.26-23.33.54:876][281]LogVolumetricLightmapImport:          2: 92.5% covering 1.5% of volume
+[2019.01.26-23.33.56:235][281]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2019.01.26-23.33.56:235][281]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2019.01.26-23.33.56:235][281]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2019.01.26-23.33.56:235][281]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2019.01.26-23.33.56:235][281]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2019.01.26-23.33.56:235][281]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2019.01.26-23.33.56:235][281]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2019.01.26-23.33.56:235][281]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2019.01.26-23.33.56:235][281]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2019.01.26-23.33.56:236][281]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2019.01.26-23.33.56:236][281]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2019.01.26-23.33.56:236][281]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2019.01.26-23.33.56:236][281]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2019.01.26-23.33.56:236][281]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2019.01.26-23.33.56:236][281]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2019.01.26-23.33.56:435][281]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2019.01.26-23.33.56:505][281]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2019.01.26-23.33.56:506][281]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2019.01.26-23.33.56:506][281]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2019.01.26-23.33.56:506][281]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2019.01.26-23.33.56:506][281]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2019.01.26-23.33.56:506][281]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2019.01.26-23.33.56:506][281]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2019.01.26-23.33.56:558][281]Lightmass on MSS2150-10: 17.3 sec total, 141 ms importing, 17 ms setup, 4.07 sec photons, 13.1 sec processing, 0 ms extra exporting [8/8 mappings]. Threads: 3:15 min total, 58.9 sec processing.
+[2019.01.26-23.33.56:561][281]LogStaticLightingSystem: Illumination: 21.3 sec (1.03 sec encoding lightmaps, 267 ms encoding shadowmaps)
+[2019.01.26-23.33.56:561][281]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 10 textures
+[2019.01.26-23.33.56:561][281]LogStaticLightingSystem: Shadowmap texture memory: 9.3 MB (9.3 MB streaming, 0.0 MB non-streaming), 8 textures
+[2019.01.26-23.33.57:235][281]DumpUnbuiltLightIteractions
+[2019.01.26-23.33.57:235][281]Lights with unbuilt interactions: 0
+[2019.01.26-23.33.57:235][281]
+[2019.01.26-23.33.57:235][281]Primitives with unbuilt interactions: 0
+[2019.01.26-23.33.57:314][282]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.26-23.33.57:314][282]MapCheck: New page: Tori - Jan 26, 2019, 1:33:57 PM
+[2019.01.26-23.33.57:315][282]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.784ms to complete.
+[2019.01.26-23.33.57:361][283]LogEditorViewport: Clicking Background
