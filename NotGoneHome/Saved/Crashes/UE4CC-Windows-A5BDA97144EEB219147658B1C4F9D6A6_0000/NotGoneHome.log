@@ -1,0 +1,876 @@
+﻿Log file open, 01/27/19 10:28:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NotGoneHome
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.540039
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.122s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) W-2145 CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Databetes -epicuserid=50414e42031c4f17b30f0e0ef6f9386a -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.27-15.28.18:499][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.27-15.28.18:499][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.27-15.28.18:499][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Engine.ini]
+[2019.01.27-15.28.18:499][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.27-15.28.18:499][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Engine.ini]
+[2019.01.27-15.28.18:499][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Engine.ini]
+[2019.01.27-15.28.18:499][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.27-15.28.18:499][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.27-15.28.18:499][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.27-15.28.18:499][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Engine.ini]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.27-15.28.18:500][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Engine.ini]
+[2019.01.27-15.28.18:500][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Engine.ini]
+[2019.01.27-15.28.18:525][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.27-15.28.18:525][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.27-15.28.18:526][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.27-15.28.18:527][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-15.28.18:527][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.27-15.28.18:528][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.27-15.28.18:528][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.27-15.28.18:528][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.27-15.28.18:549][  0]LogHAL: Display: Platform has ~ 32 GB [34020569088 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.27-15.28.18:549][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.27-15.28.18:549][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.27-15.28.18:549][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.27-15.28.18:550][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.27-15.28.18:551][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.27-15.28.18:551][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Config/Windows/Engine.ini]
+[2019.01.27-15.28.18:551][  0]LogInit: Computer: MSS2150-09
+[2019.01.27-15.28.18:551][  0]LogInit: User: IGMAdmin
+[2019.01.27-15.28.18:551][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.01.27-15.28.18:551][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.01.27-15.28.18:551][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2019.01.27-15.28.18:551][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.27-15.28.18:551][  0]LogMemory: Process Physical Memory: 105.51 MB used, 105.52 MB peak
+[2019.01.27-15.28.18:551][  0]LogMemory: Process Virtual Memory: 93.49 MB used, 93.49 MB peak
+[2019.01.27-15.28.18:551][  0]LogMemory: Physical Memory: 5855.38 MB used,  26589.16 MB free, 32444.54 MB total
+[2019.01.27-15.28.18:551][  0]LogMemory: Virtual Memory: 4685.23 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.01.27-15.28.18:569][  0]LogInit: Using OS detected language (en-US).
+[2019.01.27-15.28.18:569][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.27-15.28.18:570][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.27-15.28.18:913][  0]LogStreaming: Display: Took  0.344s to InitEngineTextLocalization.
+[2019.01.27-15.28.18:913][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.27-15.28.18:938][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.27-15.28.18:938][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.27-15.28.19:089][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.27-15.28.19:089][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.27-15.28.19:173][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.01.27-15.28.19:173][  0]LogD3D11RHI:       8079/0/16222 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.27-15.28.19:178][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.27-15.28.19:178][  0]LogD3D11RHI:       0/0/16222 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.27-15.28.19:178][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.27-15.28.19:184][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.27-15.28.19:184][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.27-15.28.19:184][  0]LogWindows: EnumDisplayDevices:
+[2019.01.27-15.28.19:184][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.01.27-15.28.19:185][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2019.01.27-15.28.19:185][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.01.27-15.28.19:185][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.01.27-15.28.19:185][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.27-15.28.19:185][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.01.27-15.28.19:185][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.01.27-15.28.19:185][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.01.27-15.28.19:185][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.01.27-15.28.19:218][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.27-15.28.19:234][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.27-15.28.19:648][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.27-15.28.19:663][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.27-15.28.19:679][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.27-15.28.19:690][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.27-15.28.19:700][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.27-15.28.19:710][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.27-15.28.19:719][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.27-15.28.19:729][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.27-15.28.19:734][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-15.28.19:789][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.27-15.28.19:861][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.27-15.28.19:861][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.27-15.28.19:886][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.27-15.28.19:886][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.27-15.28.19:895][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.27-15.28.19:903][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.27-15.28.19:913][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.27-15.28.19:922][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.27-15.28.19:955][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.27-15.28.19:955][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.27-15.28.19:955][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.27-15.28.19:997][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Intermediate/Shaders/WorkingDirectory/10136/).
+[2019.01.27-15.28.19:997][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/IGMAdmin/AppData/Local/Temp/UnrealShaderWorkingDir/512F524645BC70104DACD6B0AEDDFDD8/'.
+[2019.01.27-15.28.19:999][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.27-15.28.19:999][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.27-15.28.19:999][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.27-15.28.20:409][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.27-15.28.20:459][  0]LogDerivedDataCache: Loaded boot cache 0.05s 86MB C:/Users/IGMAdmin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.27-15.28.20:459][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/IGMAdmin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.27-15.28.20:459][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.27-15.28.20:459][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.27-15.28.20:459][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.27-15.28.20:459][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.27-15.28.20:469][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.27-15.28.20:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.27-15.28.20:469][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.27-15.28.20:481][  0]LogDerivedDataCache: Using Local data cache path C:/Users/IGMAdmin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.27-15.28.20:481][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.27-15.28.20:481][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.27-15.28.20:520][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.27-15.28.20:522][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.27-15.28.20:522][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.27-15.28.20:602][  0]LogAssetRegistry: FAssetRegistry took 0.0334 seconds to start up
+[2019.01.27-15.28.20:873][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.27-15.28.21:011][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.27-15.28.21:013][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.27-15.28.21:013][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.27-15.28.21:013][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.27-15.28.21:013][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.27-15.28.21:025][  0]LogNetVersion: NotGoneHome 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 241608228)
+[2019.01.27-15.28.21:525][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.111974 seconds
+[2019.01.27-15.28.21:530][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.27-15.28.21:530][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.27-15.28.21:530][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.27-15.28.22:219][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.27-15.28.22:232][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.27-15.28.22:826][  0]SourceControl: Source control is disabled
+[2019.01.27-15.28.22:826][  0]SourceControl: Source control is disabled
+[2019.01.27-15.28.22:827][  0]SourceControl: Source control is disabled
+[2019.01.27-15.28.22:828][  0]SourceControl: Source control is disabled
+[2019.01.27-15.28.22:985][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.27-15.28.23:143][  0]LogOcInput: OculusInput pre-init called
+[2019.01.27-15.28.23:334][  0]LogEngine: Initializing Engine...
+[2019.01.27-15.28.23:335][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.27-15.28.23:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.27-15.28.23:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.27-15.28.23:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.27-15.28.23:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.27-15.28.23:543][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.27-15.28.23:557][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.27-15.28.23:608][  0]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.27-15.28.23:656][  0]LogInit: FAudioDevice initialized.
+[2019.01.27-15.28.23:656][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.27-15.28.23:719][  0]LogDerivedDataCache: Saved boot cache 0.06s 86MB C:/Users/IGMAdmin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.27-15.28.23:742][  0]LogInit: Texture streaming: Enabled
+[2019.01.27-15.28.23:764][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.27-15.28.23:778][  0]LogInit: Transaction tracking system initialized
+[2019.01.27-15.28.23:817][  0]BlueprintLog: New page: Editor Load
+[2019.01.27-15.28.23:883][  0]LocalizationService: Localization service is disabled
+[2019.01.27-15.28.24:388][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.27-15.28.24:388][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.27-15.28.24:388][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.27-15.28.24:388][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.27-15.28.24:388][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.27-15.28.24:388][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.27-15.28.24:388][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.27-15.28.24:404][  0]LogFileCache: Scanning file cache for directory 'C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Content/' took 0.02s
+[2019.01.27-15.28.24:509][  0]SourceControl: Source control is disabled
+[2019.01.27-15.28.24:509][  0]Cmd: MAP LOAD FILE="../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-15.28.24:509][  0]LightingResults: New page: Lighting Build
+[2019.01.27-15.28.24:512][  0]MapCheck: New page: Map Check
+[2019.01.27-15.28.24:512][  0]LightingResults: New page: Lighting Build
+[2019.01.27-15.28.24:705][  0]LogStaticMesh: Building static mesh 1M_Cube...
+[2019.01.27-15.28.24:708][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/1M_Cube.1M_Cube
+[2019.01.27-15.28.24:746][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.27-15.28.24:775][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-15.28.24:819][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-15.28.24:819][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.192ms to complete.
+[2019.01.27-15.28.24:819][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.309
+[2019.01.27-15.28.24:964][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.28.24:969][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.28.24:975][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.28.24:980][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.28.24:990][  0]LogCollectionManager: Loaded 0 collections in 0.001515 seconds
+[2019.01.27-15.28.25:039][  0]LogFileCache: Scanning file cache for directory 'C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Collections/' took 0.01s
+[2019.01.27-15.28.25:039][  0]LogFileCache: Scanning file cache for directory 'C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Content/Developers/IGMAdmin/Collections/' took 0.01s
+[2019.01.27-15.28.25:039][  0]LogFileCache: Scanning file cache for directory 'C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Content/Collections/' took 0.01s
+[2019.01.27-15.28.25:039][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.27-15.28.25:054][  0]LogContentBrowser: Native class hierarchy populated in 0.0146 seconds. Added 2651 classes and 620 folders.
+[2019.01.27-15.28.25:060][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.27-15.28.25:075][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:089][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:144][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:156][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:180][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:192][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:214][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:232][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:244][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:253][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:263][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:273][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:280][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:330][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:439][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:451][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:463][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:484][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-15.28.25:724][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.01.27-15.28.25:736][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.01.27-15.28.25:762][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.27-15.28.25:766][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.27-15.28.25:788][  0]LogSlate: Took 0.010606 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.27-15.28.25:914][  0]LogRenderer: Reallocating scene render targets to support 1616x812 Format 10 NumSamples 1 (Frame:1).
+[2019.01.27-15.28.26:024][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-15.28.26:037][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.01.27-15.28.26:067][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.27-15.28.26:067][  0]LogLoad: (Engine Initialization) Total time: 10.17 seconds
+[2019.01.27-15.28.26:067][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.27-15.28.26:153][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.27-15.28.26:173][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Content/' took 0.08s
+[2019.01.27-15.28.26:212][  1]LogAssetRegistry: Asset discovery search completed in 5.6336 seconds
+[2019.01.27-15.28.26:214][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.27-15.28.26:214][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2019.01.27-15.28.27:122][ 96]LogSlate: Took 0.008147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.27-15.28.28:403][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.28.34:611][947]LogLinker: Warning: Can't find file '/Game/Maps/Chase_BuiltData'
+[2019.01.27-15.28.34:611][947]LogLinker: Warning: Can't find file for asset '/Game/Maps/Chase_BuiltData' while loading ../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Chase.umap.
+[2019.01.27-15.28.34:611][947]LoadErrors: Error: /Game/Maps/Chase : Can't find file for asset. /Game/Maps/Chase_BuiltData
+[2019.01.27-15.28.34:614][947]LogLinker: Warning: Can't find file '/Game/Maps/Chase_BuiltData'
+[2019.01.27-15.28.34:614][947]LogLinker: Warning: Can't find file for asset '/Game/Maps/Chase_BuiltData' while loading ../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Chase.umap.
+[2019.01.27-15.28.34:616][947]LogLinker: Warning: Can't find file '/Game/Maps/Chase_BuiltData'
+[2019.01.27-15.28.34:616][947]LogLinker: Warning: Can't find file for asset '/Game/Maps/Chase_BuiltData' while loading NULL.
+[2019.01.27-15.28.34:616][947]LogLinker: Warning: Can't find file '/Game/Maps/Chase_BuiltData'
+[2019.01.27-15.28.34:616][947]LogLinker: Warning: Can't find file for asset '/Game/Maps/Chase_BuiltData' while loading NULL.
+[2019.01.27-15.28.34:622][947]LogLinker: Warning: Can't find file '/Game/Maps/Chase_BuiltData'
+[2019.01.27-15.28.34:622][947]LoadErrors: Failed to load /Game/Maps/Chase_BuiltData.Chase_BuiltData Referenced by PersistentLevel
+[2019.01.27-15.28.34:622][947]LogLinker: Warning: Can't find file for asset '/Game/Maps/Chase_BuiltData' while loading NULL.
+[2019.01.27-15.28.34:644][947]LogMaterial: Display: Missing cached shader map for material DissolveBlue, compiling. 
+[2019.01.27-15.28.34:698][947]LogMaterial: Display: Missing cached shader map for material DissolveMaterial, compiling. 
+[2019.01.27-15.28.34:713][947]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.01.27-15.28.34:713][947]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.27-15.28.34:713][947]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.27-15.28.34:713][947]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.27-15.28.34:713][947]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.27-15.28.34:713][947]LogAIModule: Creating AISystem for world Chase
+[2019.01.27-15.28.34:721][947]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Chase.Chase
+[2019.01.27-15.28.34:763][947]Cmd: MAP LOAD FILE="../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Content/Maps/Chase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-15.28.34:764][947]LightingResults: New page: Lighting Build
+[2019.01.27-15.28.34:764][947]LoadErrors: New page: Loading map: Chase.umap
+[2019.01.27-15.28.34:764][947]MapCheck: New page: Map Check
+[2019.01.27-15.28.34:765][947]LightingResults: New page: Lighting Build
+[2019.01.27-15.28.34:800][947]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-15.28.34:832][947]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.01.27-15.28.34:832][947]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.27-15.28.34:832][947]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.27-15.28.34:832][947]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.27-15.28.34:832][947]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.27-15.28.34:860][947]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-15.28.34:860][947]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2019.01.27-15.28.34:860][947]LogFileHelpers: Loading map 'Chase' took 0.098
+[2019.01.27-15.28.37:139][161]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.28.37:157][161]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.28.37:157][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.28.37:157][161]PIE: New page: PIE session: Chase (Jan 27, 2019, 5:28:37 AM)
+[2019.01.27-15.28.37:170][161]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Chase
+[2019.01.27-15.28.37:188][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018272s)
+[2019.01.27-15.28.37:189][161]LogAIModule: Creating AISystem for world Chase
+[2019.01.27-15.28.37:189][161]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2019.01.27-15.28.37:189][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Chase.Chase to /Game/Maps/UEDPIE_0_Chase.Chase (0.019098s)
+[2019.01.27-15.28.37:257][161]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.27-15.28.37:269][161]LogInit: FAudioDevice initialized.
+[2019.01.27-15.28.37:320][161]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.27-15.28.37:326][161]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Chase.Chase up for play (max tick rate 0) at 2019.01.27-10.28.37
+[2019.01.27-15.28.37:327][161]LogWorld: Bringing up level for play took: 0.004028
+[2019.01.27-15.28.37:354][161]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.01.27-15.28.37:355][161]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Chase 0.169
+[2019.01.27-15.28.37:356][161]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.29.17:731][982]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.29.17:732][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.29.17:766][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.29.17:766][982]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.29.17:818][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.29.17:846][983]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.01.27-15.35.44:378][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.35.44:496][919]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.35.44:512][919]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.35.44:512][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.35.44:512][919]PIE: New page: PIE session: Chase (Jan 27, 2019, 5:35:44 AM)
+[2019.01.27-15.35.44:512][919]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Chase
+[2019.01.27-15.35.44:524][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011823s)
+[2019.01.27-15.35.44:525][919]LogAIModule: Creating AISystem for world Chase
+[2019.01.27-15.35.44:525][919]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2019.01.27-15.35.44:525][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Chase.Chase to /Game/Maps/UEDPIE_0_Chase.Chase (0.012615s)
+[2019.01.27-15.35.44:587][919]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.27-15.35.44:599][919]LogInit: FAudioDevice initialized.
+[2019.01.27-15.35.44:637][919]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.27-15.35.44:642][919]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Chase.Chase up for play (max tick rate 0) at 2019.01.27-10.35.44
+[2019.01.27-15.35.44:642][919]LogWorld: Bringing up level for play took: 0.003361
+[2019.01.27-15.35.44:658][919]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Chase -0.528
+[2019.01.27-15.35.44:658][919]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.36.06:334][506]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.36.06:334][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.36.06:369][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.36.06:369][506]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.36.06:421][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.36.06:449][507]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.01.27-15.36.08:858][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.36.09:725][877]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.01.27-15.36.09:736][878]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.27-15.36.11:087][ 32]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ShaderStuff/DissolvedObject2.DissolvedObject2
+[2019.01.27-15.36.11:461][ 32]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 117 classes and 0 folders.
+[2019.01.27-15.36.12:305][ 32]LogSlate: Took 0.009627 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.27-15.36.12:471][ 33]LogSlate: Took 0.009508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.27-15.40.10:062][459]LogSlate: Window 'DissolvedObject2' being destroyed
+[2019.01.27-15.41.49:260][ 93]BlueprintLog: New page: Compile DissolvedObject2
+[2019.01.27-15.41.49:900][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShaderStuff/DissolvedObject2" FILE="../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Content/ShaderStuff/DissolvedObject2.uasset" SILENT=true
+[2019.01.27-15.41.50:013][141]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/DissolvedObject2262F5CDD46F4D0DDBF1C32AC615680C2.tmp' to '../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Content/ShaderStuff/DissolvedObject2.uasset'
+[2019.01.27-15.41.52:027][372]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.41.52:052][372]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.41.52:052][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.41.52:052][372]PIE: New page: PIE session: Chase (Jan 27, 2019, 5:41:52 AM)
+[2019.01.27-15.41.52:052][372]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Chase
+[2019.01.27-15.41.52:064][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011868s)
+[2019.01.27-15.41.52:064][372]LogAIModule: Creating AISystem for world Chase
+[2019.01.27-15.41.52:064][372]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2019.01.27-15.41.52:064][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Chase.Chase to /Game/Maps/UEDPIE_0_Chase.Chase (0.012593s)
+[2019.01.27-15.41.52:149][372]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.27-15.41.52:163][372]LogInit: FAudioDevice initialized.
+[2019.01.27-15.41.52:202][372]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.27-15.41.52:207][372]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Chase.Chase up for play (max tick rate 0) at 2019.01.27-10.41.52
+[2019.01.27-15.41.52:207][372]LogWorld: Bringing up level for play took: 0.003135
+[2019.01.27-15.41.52:222][372]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Chase 1.039
+[2019.01.27-15.41.52:222][372]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.41.57:673][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.41.57:673][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.41.57:713][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.41.57:713][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.41.57:767][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.41.57:795][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.27-15.41.58:638][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.43.54:712][687]BlueprintLog: New page: Compile DissolvedObject2
+[2019.01.27-15.44.02:255][539]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Chase.Chase:PersistentLevel.Chase
+[2019.01.27-15.45.15:063][928]LogEditorViewport: Clicking on Actor (LMB): DissolvedObject_C (DissolvedObject3)
+[2019.01.27-15.45.15:748][994]LogEditorViewport: Clicking on Actor (CTRL LMB): DissolvedObject2_C (DissolvedObject5)
+[2019.01.27-15.45.16:782][ 99]LogEditorViewport: Clicking on Actor (CTRL LMB): DissolvedObject_C (DissolvedObject)
+[2019.01.27-15.45.17:172][133]LogEditorViewport: Clicking on Actor (CTRL LMB): DissolvedObject2_C (DissolvedObject4)
+[2019.01.27-15.45.17:551][169]LogEditorViewport: Clicking on Actor (CTRL LMB): DissolvedObject2_C (DissolvedObject2)
+[2019.01.27-15.45.17:949][208]LogEditorViewport: Clicking on Actor (CTRL LMB): DissolvedObject_C (DissolvedObject6)
+[2019.01.27-15.45.20:472][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.45.40:096][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.27-15.45.40:790][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.27-15.45.41:264][730]LogEditorViewport: Clicking on Actor (LMB): DissolvedObject2_C (DissolvedObject5)
+[2019.01.27-15.45.42:646][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.46.04:183][202]BlueprintLog: New page: Compile Chase
+[2019.01.27-15.46.35:748][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.48.57:148][876]BlueprintLog: New page: Compile Chase
+[2019.01.27-15.49.02:071][314]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.49.02:090][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.49.02:090][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.49.02:090][314]PIE: New page: PIE session: Chase (Jan 27, 2019, 5:49:02 AM)
+[2019.01.27-15.49.02:090][314]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Chase
+[2019.01.27-15.49.02:104][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013024s)
+[2019.01.27-15.49.02:104][314]LogAIModule: Creating AISystem for world Chase
+[2019.01.27-15.49.02:104][314]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2019.01.27-15.49.02:104][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Chase.Chase to /Game/Maps/UEDPIE_0_Chase.Chase (0.013757s)
+[2019.01.27-15.49.02:174][314]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.27-15.49.02:188][314]LogInit: FAudioDevice initialized.
+[2019.01.27-15.49.02:225][314]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.27-15.49.02:230][314]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Chase.Chase up for play (max tick rate 0) at 2019.01.27-10.49.02
+[2019.01.27-15.49.02:230][314]LogWorld: Bringing up level for play took: 0.003332
+[2019.01.27-15.49.02:246][314]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Chase 1.065
+[2019.01.27-15.49.02:246][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.49.17:712][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.49.17:712][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.49.17:754][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.49.17:754][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.49.17:809][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.49.17:838][158]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.01.27-15.49.25:234][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.50.04:786][120]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Chase_Auto1735161B54DAD8E8323B65689F7AAA873.tmp' to '../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Autosaves/Game/Maps/Chase_Auto1.umap'
+[2019.01.27-15.50.04:792][120]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Chase' took 0.336
+[2019.01.27-15.50.04:792][120]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.336
+[2019.01.27-15.50.04:794][120]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ShaderStuff/DissolvedObject2] ([1] browsable assets)...
+[2019.01.27-15.50.04:818][120]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ShaderStuff/DissolvedObject2.DissolvedObject2]
+[2019.01.27-15.50.04:818][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShaderStuff/DissolvedObject2]
+[2019.01.27-15.50.04:877][120]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/DissolvedObject2_Auto100218B5449954580A8A75B80245A2327.tmp' to '../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/Autosaves/Game/ShaderStuff/DissolvedObject2_Auto1.uasset'
+[2019.01.27-15.50.04:878][120]LogFileHelpers: Auto-saving content packages took 0.085
+[2019.01.27-15.51.13:108][189]BlueprintLog: New page: Compile DissolvedObject2
+[2019.01.27-15.51.13:670][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShaderStuff/DissolvedObject2" FILE="../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Content/ShaderStuff/DissolvedObject2.uasset" SILENT=true
+[2019.01.27-15.51.13:695][229]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/DissolvedObject27BC0FCC54E8F03F364C96FA594031AF6.tmp' to '../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Content/ShaderStuff/DissolvedObject2.uasset'
+[2019.01.27-15.51.19:982][714]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.27-15.51.20:618][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.51.20:712][789]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.51.20:734][789]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.51.20:734][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.51.20:734][789]PIE: New page: PIE session: Chase (Jan 27, 2019, 5:51:20 AM)
+[2019.01.27-15.51.20:734][789]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Chase
+[2019.01.27-15.51.20:745][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010857s)
+[2019.01.27-15.51.20:745][789]LogAIModule: Creating AISystem for world Chase
+[2019.01.27-15.51.20:746][789]LogPlayLevel: PIE: World Init took: (0.000524s)
+[2019.01.27-15.51.20:746][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Chase.Chase to /Game/Maps/UEDPIE_0_Chase.Chase (0.011488s)
+[2019.01.27-15.51.20:824][789]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.27-15.51.20:837][789]LogInit: FAudioDevice initialized.
+[2019.01.27-15.51.20:872][789]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.27-15.51.20:876][789]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Chase.Chase up for play (max tick rate 0) at 2019.01.27-10.51.20
+[2019.01.27-15.51.20:877][789]LogWorld: Bringing up level for play took: 0.003146
+[2019.01.27-15.51.20:891][789]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Chase -0.289
+[2019.01.27-15.51.20:892][789]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.51.32:534][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.51.32:534][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.51.32:574][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.51.32:574][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.51.32:629][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.51.32:660][177]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.01.27-15.51.38:757][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.51.39:167][611]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.51.39:182][611]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.51.39:182][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.51.39:182][611]PIE: New page: PIE session: Chase (Jan 27, 2019, 5:51:39 AM)
+[2019.01.27-15.51.39:182][611]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Chase
+[2019.01.27-15.51.39:193][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011183s)
+[2019.01.27-15.51.39:194][611]LogAIModule: Creating AISystem for world Chase
+[2019.01.27-15.51.39:194][611]LogPlayLevel: PIE: World Init took: (0.000525s)
+[2019.01.27-15.51.39:194][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Chase.Chase to /Game/Maps/UEDPIE_0_Chase.Chase (0.011820s)
+[2019.01.27-15.51.39:272][611]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.27-15.51.39:284][611]LogInit: FAudioDevice initialized.
+[2019.01.27-15.51.39:318][611]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.27-15.51.39:322][611]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Chase.Chase up for play (max tick rate 0) at 2019.01.27-10.51.39
+[2019.01.27-15.51.39:323][611]LogWorld: Bringing up level for play took: 0.003145
+[2019.01.27-15.51.39:337][611]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Chase 0.157
+[2019.01.27-15.51.39:338][611]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.51.45:569][250]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.51.45:569][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.51.45:610][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.51.45:610][250]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.51.45:663][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.51.45:718][251]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.01.27-15.51.49:882][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.51.53:758][104]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.51.53:773][104]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.51.53:774][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.51.53:774][104]PIE: New page: PIE session: Chase (Jan 27, 2019, 5:51:53 AM)
+[2019.01.27-15.51.53:774][104]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Chase
+[2019.01.27-15.51.53:785][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011469s)
+[2019.01.27-15.51.53:786][104]LogAIModule: Creating AISystem for world Chase
+[2019.01.27-15.51.53:786][104]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2019.01.27-15.51.53:786][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Chase.Chase to /Game/Maps/UEDPIE_0_Chase.Chase (0.012143s)
+[2019.01.27-15.51.53:852][104]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.27-15.51.53:870][104]LogInit: FAudioDevice initialized.
+[2019.01.27-15.51.53:908][104]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.27-15.51.53:912][104]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Chase.Chase up for play (max tick rate 0) at 2019.01.27-10.51.53
+[2019.01.27-15.51.53:913][104]LogWorld: Bringing up level for play took: 0.003094
+[2019.01.27-15.51.53:927][104]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Chase 0.748
+[2019.01.27-15.51.53:928][104]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.52.07:238][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.52.07:238][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.52.07:280][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.52.07:280][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.52.07:336][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.52.07:371][656]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.01.27-15.52.08:725][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.52.16:751][656]LogEditorTransaction: Undo Create Pin Link
+[2019.01.27-15.52.29:218][953]BlueprintLog: New page: Compile DissolvedObject2
+[2019.01.27-15.52.29:804][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShaderStuff/DissolvedObject2" FILE="../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Content/ShaderStuff/DissolvedObject2.uasset" SILENT=true
+[2019.01.27-15.52.29:828][992]LogSavePackage: Moving '../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Saved/DissolvedObject286BA5BE143EF9899077046B4A86E105A.tmp' to '../../../../../../Users/IGMAdmin/Downloads/ggj19-NotGoneHome/NotGoneHome/Content/ShaderStuff/DissolvedObject2.uasset'
+[2019.01.27-15.52.31:956][225]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.52.31:978][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.52.31:978][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.52.31:978][225]PIE: New page: PIE session: Chase (Jan 27, 2019, 5:52:31 AM)
+[2019.01.27-15.52.31:978][225]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Chase
+[2019.01.27-15.52.31:989][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011115s)
+[2019.01.27-15.52.31:990][225]LogAIModule: Creating AISystem for world Chase
+[2019.01.27-15.52.31:990][225]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2019.01.27-15.52.31:990][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Chase.Chase to /Game/Maps/UEDPIE_0_Chase.Chase (0.011735s)
+[2019.01.27-15.52.32:065][225]LogInit: XAudio2 using 'Dell S2417DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.27-15.52.32:087][225]LogInit: FAudioDevice initialized.
+[2019.01.27-15.52.32:122][225]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.01.27-15.52.32:126][225]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Chase.Chase up for play (max tick rate 0) at 2019.01.27-10.52.32
+[2019.01.27-15.52.32:127][225]LogWorld: Bringing up level for play took: 0.003258
+[2019.01.27-15.52.32:141][225]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Chase 0.961
+[2019.01.27-15.52.32:142][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.55.17:054][243]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.55.17:054][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.55.17:092][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.55.17:092][243]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Chase.Chase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Chase.Chase:PersistentLevel.Chase' with GeneratedClass '/Game/Maps/Chase.Chase_C' with ClassGeneratedBy '/Game/Maps/Chase.Chase:PersistentLevel.Chase'
+[2019.01.27-15.55.17:146][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.55.17:198][244]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.01.27-15.55.18:944][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.55.26:097][210]LogEditorViewport: Clicking on Actor (LMB): DissolvedObject_C (DissolvedObject3)
+[2019.01.27-15.55.26:827][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.55.41:604][784]LogEditorViewport: Clicking on Actor (LMB): DissolvedObject2_C (DissolvedObject4)
+[2019.01.27-15.55.42:520][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.56.00:450][599]LogUObjectArray: Warning: Empty slot
+[2019.01.27-15.56.00:450][599]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.01.27-15.56.01:349][599]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.899 s
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: 
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: Stack: 
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa24698304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa246a81ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa21c1bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa20ac769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa20a80917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa25927c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa25b74393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa25982d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa25958a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa2594b263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa4007dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa40070de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa400801eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa4006ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa8232ca66 USER32.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa8232c582 USER32.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ffa40081746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.27-15.56.01:349][599]LogOutputDevice: Error: [Callstack] 0x00007ff7dd895546 UE4Editor.exe!UnknownFunction []
+[2019.01.27-15.56.01:350][599]LogOutputDevice: Error: [Callstack] 0x00007ff7dd8a596c UE4Editor.exe!UnknownFunction []
+[2019.01.27-15.56.01:350][599]LogOutputDevice: Error: [Callstack] 0x00007ff7dd8a59ea UE4Editor.exe!UnknownFunction []
+[2019.01.27-15.56.01:350][599]LogOutputDevice: Error: [Callstack] 0x00007ff7dd8b48da UE4Editor.exe!UnknownFunction []
+[2019.01.27-15.56.01:350][599]LogOutputDevice: Error: [Callstack] 0x00007ff7dd8b659a UE4Editor.exe!UnknownFunction []
+[2019.01.27-15.56.01:350][599]LogOutputDevice: Error: [Callstack] 0x00007ffa82027e94 KERNEL32.DLL!UnknownFunction []
+[2019.01.27-15.56.01:350][599]LogOutputDevice: Error: [Callstack] 0x00007ffa827ca251 ntdll.dll!UnknownFunction []
+[2019.01.27-15.56.01:350][599]LogOutputDevice: Error: 
+[2019.01.27-15.56.01:353][599]LogStats:                SubmitErrorReport -  0.000 s

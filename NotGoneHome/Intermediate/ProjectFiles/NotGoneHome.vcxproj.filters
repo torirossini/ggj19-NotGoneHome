@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NotGoneHome.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F7BF3080-A577-4E5E-A817-F5BB77491DA6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NotGoneHome.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NotGoneHomeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0A28707D-F83E-440B-9ABE-D6F8ACB768AF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\NotGoneHome">
+      <UniqueIdentifier>{A74D2FE7-C0BA-4943-BB1F-F9BC74C4BC43}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NotGoneHome\DissolveManager.cpp">
+      <Filter>Source\NotGoneHome</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NotGoneHome\DissolveManager.h">
+      <Filter>Source\NotGoneHome</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\NotGoneHome\NotGoneHome.Build.cs">
+      <Filter>Source\NotGoneHome</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NotGoneHome\NotGoneHome.cpp">
+      <Filter>Source\NotGoneHome</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NotGoneHome\NotGoneHome.h">
+      <Filter>Source\NotGoneHome</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
