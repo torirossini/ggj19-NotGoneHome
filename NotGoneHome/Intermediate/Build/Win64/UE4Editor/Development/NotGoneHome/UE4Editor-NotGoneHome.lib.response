@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NotGoneHome.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\NotGoneHomeEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Development\NotGoneHome\DissolveManager.cpp.obj"
+"D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Development\NotGoneHome\NotGoneHome.cpp.obj"
+"D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Development\NotGoneHome\DissolveManager.gen.cpp.obj"
+"D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Development\NotGoneHome\NotGoneHome.init.gen.cpp.obj"
+"D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Development\NotGoneHome\PCLaunch.rc.res"
+/OUT:"D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Development\NotGoneHome\UE4Editor-NotGoneHome.lib"

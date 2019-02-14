@@ -1,0 +1,20 @@
+﻿  Performing full C++ include scan (building a new target)
+  Using 'git status' to determine working set for adaptive non-unity build (D:\Profiles\tar6248\ggj19-NotGoneHome).
+  Creating makefile for NotGoneHomeEditor (no existing makefile)
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for NotGoneHomeEditor
+    Running UnrealHeaderTool "D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\NotGoneHome.uproject" "D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\NotGoneHomeEditor\Development\NotGoneHomeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for NotGoneHomeEditor in 8.1990084 seconds
+  Building 8 actions with 16 processes...
+    [1/8] PCLaunch.rc
+    [2/8] SharedPCH.Engine.cpp
+    [3/8] NotGoneHome.cpp
+    [4/8] DissolveManager.cpp
+    [5/8] NotGoneHome.init.gen.cpp
+    [6/8] DissolveManager.gen.cpp
+    [7/8] UE4Editor-NotGoneHome.lib
+       Creating library D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Development\NotGoneHome\UE4Editor-NotGoneHome.lib and object D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Development\NotGoneHome\UE4Editor-NotGoneHome.exp
+    [8/8] UE4Editor-NotGoneHome.dll
+       Creating library D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Development\NotGoneHome\UE4Editor-NotGoneHome.suppressed.lib and object D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Development\NotGoneHome\UE4Editor-NotGoneHome.suppressed.exp
+  Deploying NotGoneHomeEditor Win64 Development...
+  Total build time: 37.58 seconds (Parallel executor: 24.99 seconds)

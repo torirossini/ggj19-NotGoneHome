@@ -412,18 +412,21 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I C:\Users\IGMAdmin\Downloads\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Inc\NotGoneHome
-/I C:\Users\IGMAdmin\Downloads\ggj19-NotGoneHome\NotGoneHome\Source
-/I C:\Users\IGMAdmin\Downloads\ggj19-NotGoneHome\NotGoneHome\Source\NotGoneHome
+/I D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Inc\NotGoneHome
+/I D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Source
+/I D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Source\NotGoneHome
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-"C:\Users\IGMAdmin\Downloads\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Inc\NotGoneHome\NotGoneHome.init.gen.cpp"
-/FI"C:\Users\IGMAdmin\Downloads\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Development\NotGoneHome\Definitions.h"
-/Fo"C:\Users\IGMAdmin\Downloads\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Development\NotGoneHome\NotGoneHome.init.gen.cpp.obj"
+/FI"D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\NotGoneHomeEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\NotGoneHomeEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\NotGoneHomeEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Inc\NotGoneHome\NotGoneHome.init.gen.cpp"
+/FI"D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Development\NotGoneHome\Definitions.NotGoneHome.h"
+/Fo"D:\Profiles\tar6248\ggj19-NotGoneHome\NotGoneHome\Intermediate\Build\Win64\UE4Editor\Development\NotGoneHome\NotGoneHome.init.gen.cpp.obj"
 /TP
 /GR-
 /W4

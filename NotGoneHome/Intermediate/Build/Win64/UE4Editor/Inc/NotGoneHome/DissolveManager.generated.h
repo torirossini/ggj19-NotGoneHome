@@ -13,8 +13,30 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define NOTGONEHOME_DissolveManager_generated_h
 
-#define NotGoneHome_Source_NotGoneHome_DissolveManager_h_12_RPC_WRAPPERS
-#define NotGoneHome_Source_NotGoneHome_DissolveManager_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define NotGoneHome_Source_NotGoneHome_DissolveManager_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execSetDissolve) \
+	{ \
+		P_GET_UBOOL(Z_Param_dissolving); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->SetDissolve(Z_Param_dissolving); \
+		P_NATIVE_END; \
+	}
+
+
+#define NotGoneHome_Source_NotGoneHome_DissolveManager_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execSetDissolve) \
+	{ \
+		P_GET_UBOOL(Z_Param_dissolving); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->SetDissolve(Z_Param_dissolving); \
+		P_NATIVE_END; \
+	}
+
+
 #define NotGoneHome_Source_NotGoneHome_DissolveManager_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesADissolveManager(); \
