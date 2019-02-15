@@ -605,3 +605,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.14-23.47.52:579][940]LogHttp: Warning: 000001FA9F006E80: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
 [2019.02.14-23.47.52:580][940]LogHttp: Warning: 000001FA9F006E80: libcurl info message cache 4 (Closing connection 11)
 [2019.02.14-23.47.52:580][940]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCDD96738-4255-8BFA-3EE3-E1B94C844C3C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=87c824574fbfbfa90758629c1edfb24a%7Cc451a0263b8e4f32ae255a5742674654%7C9fd184a3-08a3-43ce-849b-391e79e81a39&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.15-00.00.03:510][122]LogHttp: Warning: 000001FA9F006700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.15-00.00.03:510][122]LogHttp: Warning: 000001FA9F006700: libcurl info message cache 0 (Connection 16 seems to be dead!)
+[2019.02.15-00.00.03:511][122]LogHttp: Warning: 000001FA9F006700: libcurl info message cache 1 (Closing connection 16)
+[2019.02.15-00.00.03:511][122]LogHttp: Warning: 000001FA9F006700: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.02.15-00.00.03:511][122]LogHttp: Warning: 000001FA9F006700: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.15-00.00.03:511][122]LogHttp: Warning: 000001FA9F006700: libcurl info message cache 4 (Closing connection 17)
+[2019.02.15-00.00.03:511][122]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCDD96738-4255-8BFA-3EE3-E1B94C844C3C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=87c824574fbfbfa90758629c1edfb24a%7Cc451a0263b8e4f32ae255a5742674654%7C9fd184a3-08a3-43ce-849b-391e79e81a39&AppEnvironment=datacollector-binary&UploadType=eteventstream
